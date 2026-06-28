@@ -208,4 +208,10 @@ Using Python (`pandas`, `seaborn`, `matplotlib`), the raw data was transformed i
 
 ---
 
-*Crafted by an aspiring Data Analyst aiming to deliver data-driven business impact.*
+## 👤 Author
+
+**Sujal Giri**
+
+- GitHub: [sujalgiriiitp-source](https://github.com/sujalgiriiitp-source)
+- LinkedIn: [Sujal Giri](https://www.linkedin.com/in/sujal-giri-9501253a0)
+- Email: sujalgiriiitp@gmail.com
