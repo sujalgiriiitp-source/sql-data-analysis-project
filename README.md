@@ -160,7 +160,7 @@ Using Python (`pandas`, `seaborn`, `matplotlib`), the raw data was transformed i
 
 1. **Clone the Repository**
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/sujalgiriiitp-source/sql-data-analysis-project.git
    cd ECommerce_SQL_Analysis
    ```
 
