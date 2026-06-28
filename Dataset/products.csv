@@ -1,0 +1,2001 @@
+product_id,product_name,category_id,supplier_id,price,stock_quantity,is_returnable,rating
+1,Distributed actuating application,6,70,47679.64,472,True,1.0
+2,Synergistic impactful open system,11,63,1071.89,475,True,4.94
+3,Open-architected mission-critical Graphic Interface,10,31,2990.47,449,True,1.32
+4,Realigned fresh-thinking flexibility,16,9,48901.43,272,True,1.51
+5,Assimilated mobile synergy,16,71,8339.84,270,False,2.69
+6,Self-enabling clear-thinking adapter,7,70,37787.73,353,True,2.25
+7,Virtual bi-directional database,12,57,44990.74,231,True,1.9
+8,Re-engineered directional hardware,11,3,29456.61,117,True,1.03
+9,Extended bifurcated monitoring,2,30,3463.28,16,False,1.28
+10,Universal value-added interface,8,36,33481.99,109,True,3.89
+11,Switchable 4thgeneration portal,19,74,23686.28,401,True,2.63
+12,Reactive stable installation,4,13,32983.24,181,True,2.87
+13,Expanded value-added support,2,87,32707.43,330,True,2.61
+14,Reactive zero-defect paradigm,11,14,12507.95,97,True,1.56
+15,Versatile foreground functionalities,6,36,23185.14,447,False,2.77
+16,Face-to-face stable portal,18,13,2624.36,276,False,4.88
+17,Distributed logistical project,8,22,20380.06,246,True,2.6
+18,Future-proofed real-time initiative,2,22,19010.76,199,True,4.14
+19,Persevering demand-driven approach,15,37,21208.07,490,True,4.13
+20,Public-key bi-directional synergy,16,20,9575.9,111,False,3.32
+21,Ameliorated user-facing protocol,18,8,37423.98,29,True,2.91
+22,Cross-group heuristic analyzer,17,21,2938.29,260,True,1.74
+23,Realigned attitude-oriented infrastructure,20,9,33793.11,120,True,4.77
+24,Fully-configurable mission-critical neural-net,19,32,28988.06,20,True,2.68
+25,Realigned asymmetric hub,19,73,26186.86,478,True,3.68
+26,Team-oriented intangible leverage,11,31,13354.16,67,True,2.2
+27,Implemented multi-state artificial intelligence,11,97,46793.14,4,True,4.99
+28,Public-key eco-centric circuit,4,10,26927.96,259,True,4.73
+29,Programmable explicit intranet,3,32,18539.4,80,True,3.17
+30,Self-enabling system-worthy forecast,10,79,49194.28,413,True,1.03
+31,Fundamental tangible superstructure,18,39,46594.63,53,False,1.54
+32,De-engineered neutral leverage,4,14,37146.59,79,True,3.42
+33,Enterprise-wide dynamic infrastructure,11,27,34406.11,436,True,2.95
+34,Persistent 24hour open architecture,2,12,31750.79,424,True,1.01
+35,Automated regional synergy,5,82,48991.92,82,True,3.21
+36,Managed zero tolerance array,14,72,582.52,38,False,3.76
+37,Total secondary frame,5,70,1897.8,189,True,1.59
+38,Triple-buffered contextually-based approach,5,6,15482.09,460,False,4.89
+39,Secured national support,2,46,10582.82,127,True,2.41
+40,Focused local info-mediaries,18,53,48694.47,383,True,4.72
+41,Customizable directional info-mediaries,6,23,44082.67,12,True,4.7
+42,Cross-group national info-mediaries,14,86,43216.8,415,True,1.64
+43,Balanced demand-driven complexity,4,49,43621.12,439,True,1.8
+44,Synergistic global forecast,15,45,15329.02,407,False,1.89
+45,Profit-focused motivating function,7,52,16480.27,442,True,4.09
+46,Multi-channeled zero-defect groupware,12,83,25519.34,347,False,3.14
+47,Vision-oriented tertiary matrix,1,15,43864.22,133,True,4.85
+48,Versatile zero-defect neural-net,9,5,5509.29,222,True,4.15
+49,Open-architected upward-trending portal,14,78,49213.37,59,True,3.31
+50,Innovative well-modulated application,9,6,35468.39,0,True,4.23
+51,Right-sized contextually-based knowledgebase,7,47,21621.74,485,True,2.32
+52,Realigned actuating orchestration,11,85,42415.96,368,False,3.03
+53,Extended user-facing secured line,14,42,20179.78,151,True,1.77
+54,Grass-roots stable moratorium,13,87,37431.91,89,True,2.2
+55,Face-to-face actuating neural-net,18,1,15263.36,107,True,3.32
+56,Robust non-volatile interface,11,60,22145.12,345,True,2.89
+57,Vision-oriented even-keeled leverage,6,85,4331.3,263,True,3.48
+58,Streamlined human-resource time-frame,3,97,11819.94,158,True,1.8
+59,Cross-group demand-driven contingency,1,6,12317.64,243,True,4.07
+60,Balanced interactive functionalities,15,54,44318.23,294,True,3.79
+61,Managed needs-based infrastructure,16,52,12274.82,335,True,4.57
+62,Profit-focused background secured line,4,100,21314.8,90,False,3.78
+63,Advanced discrete forecast,15,7,27914.55,469,False,2.83
+64,Organized systemic throughput,15,86,26603.48,286,True,4.8
+65,Team-oriented local matrix,15,79,40768.82,456,True,4.32
+66,Multi-channeled tertiary forecast,18,58,44870.68,380,False,2.8
+67,Progressive composite interface,8,82,13937.84,398,True,3.51
+68,Upgradable responsive hierarchy,9,57,3966.42,146,True,2.34
+69,Cross-group motivating algorithm,18,11,7004.87,118,True,1.61
+70,Open-source contextually-based strategy,7,9,20801.91,169,True,2.66
+71,User-centric secondary methodology,7,54,19534.89,394,True,3.78
+72,Focused motivating throughput,19,49,23901.29,482,True,4.01
+73,Persistent heuristic encryption,14,69,37401.03,279,True,4.59
+74,Cross-group maximized hub,16,29,13719.47,248,True,2.34
+75,Secured optimizing definition,13,93,8335.73,239,False,4.92
+76,Enhanced cohesive encryption,18,4,45355.75,303,True,1.11
+77,Future-proofed user-facing archive,14,18,43355.88,93,True,2.52
+78,Organic grid-enabled extranet,7,59,16409.61,389,False,2.11
+79,Operative coherent capacity,14,33,41762.05,240,True,3.16
+80,Reactive analyzing array,12,29,32542.19,399,False,1.16
+81,Extended client-server project,1,32,10048.1,10,True,1.95
+82,Customer-focused discrete collaboration,16,86,5808.03,485,True,3.8
+83,Quality-focused fresh-thinking collaboration,12,22,30334.05,493,True,1.46
+84,Up-sized high-level extranet,6,40,5494.13,13,False,3.3
+85,Managed human-resource budgetary management,13,51,47079.38,101,True,3.76
+86,Secured 6thgeneration firmware,8,14,34889.93,154,False,3.4
+87,Triple-buffered disintermediate utilization,4,73,39153.5,177,True,3.65
+88,Persevering fault-tolerant monitoring,3,65,32412.41,6,False,4.29
+89,Open-architected client-driven time-frame,4,56,48043.3,325,False,2.84
+90,Profit-focused actuating migration,5,56,8889.23,267,False,2.08
+91,Synchronized needs-based middleware,18,100,24226.53,223,False,3.37
+92,Synergistic executive benchmark,11,32,41553.48,44,True,2.8
+93,Multi-layered eco-centric infrastructure,15,73,30555.55,194,True,2.98
+94,Intuitive reciprocal pricing structure,11,24,24428.74,181,True,2.36
+95,Down-sized incremental knowledgebase,20,90,44017.36,284,True,4.79
+96,Optional asynchronous paradigm,3,31,36031.73,250,True,1.96
+97,Customizable high-level structure,16,83,35620.94,229,True,1.37
+98,Decentralized systematic infrastructure,8,52,34620.18,156,True,2.48
+99,Future-proofed grid-enabled customer loyalty,18,68,17253.49,381,True,2.41
+100,Digitized analyzing utilization,15,35,15400.49,118,True,1.77
+101,Fundamental actuating emulation,4,96,26839.61,390,True,1.77
+102,Expanded explicit analyzer,16,36,36256.79,500,True,3.39
+103,Focused mission-critical installation,4,25,14882.7,184,True,1.06
+104,Vision-oriented dynamic middleware,18,17,13788.14,498,True,2.17
+105,Synergistic motivating synergy,5,82,43436.21,251,True,1.05
+106,Expanded fresh-thinking initiative,10,61,23987.84,174,True,1.21
+107,Total stable strategy,16,15,41123.57,205,True,3.31
+108,Decentralized clear-thinking ability,2,20,7544.96,288,False,1.34
+109,Extended encompassing artificial intelligence,8,16,27947.84,213,True,4.16
+110,Realigned radical policy,8,100,26176.37,230,False,2.19
+111,Re-contextualized radical installation,19,55,15338.47,317,True,4.84
+112,Phased next generation hub,4,98,10468.62,108,True,1.32
+113,De-engineered fresh-thinking workforce,8,23,27644.41,80,True,2.8
+114,Proactive content-based secured line,20,61,14633.84,118,True,2.13
+115,Front-line modular website,15,10,34400.51,473,True,4.16
+116,Realigned maximized leverage,19,85,40214.89,101,True,3.18
+117,Operative tangible access,5,35,41348.89,36,True,4.17
+118,Horizontal grid-enabled extranet,20,96,41229.59,471,True,1.5
+119,Focused content-based moratorium,10,90,20185.18,139,True,2.98
+120,Team-oriented tertiary Graphical User Interface,3,77,2089.05,221,True,3.41
+121,Programmable 6thgeneration core,1,12,11523.33,345,False,3.3
+122,Quality-focused non-volatile product,1,98,33646.85,137,True,4.05
+123,Robust zero-defect encoding,6,61,25996.3,226,False,1.73
+124,Switchable leadingedge flexibility,19,56,31775.76,251,False,2.88
+125,Multi-layered zero-defect project,14,43,16120.81,53,False,2.32
+126,Fundamental next generation moderator,16,37,33162.92,205,False,3.2
+127,Stand-alone homogeneous hub,15,12,15794.41,165,True,4.09
+128,Devolved human-resource extranet,17,1,32917.25,277,True,1.22
+129,Programmable background hub,17,47,31169.43,255,True,4.04
+130,Horizontal dynamic circuit,7,35,27506.06,474,True,4.52
+131,Automated logistical throughput,16,16,1540.59,322,True,1.96
+132,Balanced grid-enabled service-desk,6,40,27586.87,282,True,1.9
+133,Adaptive background open system,4,60,47358.33,331,False,2.99
+134,Integrated user-facing system engine,10,66,35300.04,212,False,4.92
+135,Adaptive object-oriented policy,8,59,27608.13,196,True,3.4
+136,Public-key encompassing superstructure,5,9,13884.75,404,False,2.36
+137,Profit-focused client-server standardization,17,35,41045.42,144,True,4.35
+138,Pre-emptive mission-critical model,19,85,24533.05,76,True,2.94
+139,Cross-platform modular methodology,11,71,38167.35,193,True,2.29
+140,Re-engineered dynamic algorithm,7,90,12016.4,196,True,4.1
+141,Inverse 5thgeneration Graphical User Interface,2,41,37260.79,361,False,2.52
+142,Vision-oriented background database,5,64,48244.74,64,True,3.36
+143,Automated fault-tolerant customer loyalty,4,57,5075.61,466,True,3.89
+144,Fully-configurable contextually-based Graphical User Interface,14,84,48500.84,38,True,4.88
+145,Centralized grid-enabled projection,11,80,34665.96,332,True,2.31
+146,Compatible systemic interface,18,49,47711.57,320,True,4.04
+147,Proactive optimizing capacity,18,5,30911.23,120,True,4.68
+148,Reduced context-sensitive project,8,96,4609.93,500,True,3.53
+149,Future-proofed clear-thinking leverage,4,57,8401.6,153,False,1.18
+150,Customer-focused homogeneous project,2,38,17987.32,220,True,3.12
+151,Configurable 3rdgeneration neural-net,19,88,39646.72,87,True,3.44
+152,Programmable regional service-desk,13,80,34188.42,254,False,1.57
+153,Mandatory web-enabled circuit,15,82,12773.47,130,True,4.6
+154,Business-focused grid-enabled time-frame,15,37,33912.78,80,True,4.78
+155,Profound impactful groupware,19,39,31983.04,217,True,2.83
+156,Universal next generation process improvement,10,26,49968.74,436,True,1.95
+157,Self-enabling human-resource infrastructure,19,46,28783.12,358,True,4.91
+158,Organic coherent monitoring,13,36,504.09,442,True,3.98
+159,Decentralized homogeneous emulation,2,78,37284.09,426,False,2.14
+160,Streamlined tertiary moderator,8,78,40116.4,112,True,3.48
+161,Exclusive hybrid pricing structure,5,81,4948.48,321,True,2.24
+162,Switchable interactive Graphic Interface,15,5,29020.73,374,True,4.64
+163,Managed full-range product,11,96,20833.6,102,True,3.16
+164,Streamlined multimedia matrix,12,68,25139.56,139,False,2.03
+165,Team-oriented 24hour installation,16,38,37353.31,173,False,2.87
+166,Organic bottom-line neural-net,3,19,37732.16,115,False,3.9
+167,Persistent national paradigm,13,72,18352.17,404,True,2.06
+168,Reduced context-sensitive parallelism,4,59,18492.42,383,True,3.34
+169,Total explicit task-force,12,14,33774.34,241,True,4.54
+170,Stand-alone client-driven service-desk,18,42,45771.27,113,True,3.54
+171,Balanced disintermediate projection,15,90,15179.29,209,True,1.18
+172,Versatile hybrid open system,2,39,49796.78,59,True,4.55
+173,Stand-alone system-worthy interface,5,50,22736.82,343,False,3.79
+174,Programmable multi-tasking functionalities,18,54,29408.28,372,True,2.66
+175,Compatible methodical standardization,4,63,30821.05,480,False,1.13
+176,Managed contextually-based time-frame,12,28,22224.82,486,True,2.45
+177,Distributed leadingedge monitoring,12,70,45094.64,330,True,2.59
+178,Open-source eco-centric extranet,7,16,47455.64,421,True,3.65
+179,Public-key analyzing hierarchy,20,3,2623.87,170,True,1.5
+180,Vision-oriented dedicated projection,19,27,3523.65,391,True,3.35
+181,Future-proofed responsive architecture,8,43,38740.99,403,False,1.01
+182,Managed 24/7 architecture,5,17,27056.75,408,True,3.64
+183,Progressive tertiary orchestration,1,17,841.53,404,True,3.36
+184,Reverse-engineered national extranet,1,23,13341.84,64,True,3.1
+185,Mandatory 3rdgeneration project,3,61,22468.93,185,True,1.44
+186,Reactive systematic policy,17,29,47276.24,22,True,4.64
+187,Vision-oriented leadingedge access,17,39,22956.32,493,True,4.99
+188,Horizontal exuding data-warehouse,13,55,34336.27,251,True,2.77
+189,Persevering uniform capability,3,42,30454.04,33,True,3.5
+190,Assimilated mobile definition,19,71,35636.42,195,False,3.12
+191,Multi-lateral scalable orchestration,15,65,30310.8,50,True,1.46
+192,Extended client-driven superstructure,18,93,43288.07,220,True,1.91
+193,Re-engineered analyzing methodology,11,59,19996.64,373,True,2.71
+194,Quality-focused 3rdgeneration project,9,48,47684.27,351,False,1.27
+195,Assimilated holistic definition,3,12,21650.64,381,True,4.25
+196,Synergized eco-centric matrices,18,8,29364.61,287,True,3.68
+197,Organic 5thgeneration customer loyalty,14,46,43693.01,481,True,4.47
+198,Progressive next generation Graphical User Interface,2,37,30060.46,180,True,3.03
+199,Up-sized systematic data-warehouse,5,85,24161.25,433,True,4.38
+200,Reverse-engineered local Graphical User Interface,12,15,38154.02,293,True,2.72
+201,Intuitive grid-enabled moratorium,18,99,40939.5,314,True,3.23
+202,Customizable actuating Graphic Interface,20,85,41490.09,136,True,2.09
+203,Front-line zero-defect software,10,44,17616.07,92,False,3.27
+204,Synchronized local time-frame,13,9,7179.55,324,False,1.37
+205,Versatile holistic time-frame,17,28,18872.1,232,True,2.48
+206,Switchable high-level infrastructure,11,100,47076.23,305,True,1.21
+207,Fundamental explicit analyzer,6,97,30930.13,345,True,2.77
+208,Persistent discrete functionalities,14,63,30393.09,212,True,4.02
+209,Monitored optimizing process improvement,4,45,21552.69,145,True,3.37
+210,Multi-layered composite function,17,86,15490.13,112,True,3.4
+211,Devolved uniform Internet solution,1,27,15140.83,108,True,4.06
+212,User-centric static knowledge user,10,42,6087.22,254,True,1.7
+213,Diverse system-worthy parallelism,13,69,35213.2,256,True,3.67
+214,Multi-channeled empowering productivity,12,10,19913.85,379,True,1.07
+215,Customer-focused user-facing focus group,3,41,28830.38,293,True,3.56
+216,Fundamental web-enabled success,10,15,20311.11,494,True,4.21
+217,Re-engineered clear-thinking process improvement,20,59,41618.09,470,True,2.75
+218,Polarized explicit data-warehouse,4,32,21840.26,205,True,2.58
+219,Seamless disintermediate attitude,10,96,17041.71,170,True,1.31
+220,Exclusive executive initiative,4,68,25546.61,463,True,2.4
+221,Multi-lateral discrete instruction set,5,31,5229.95,131,True,3.41
+222,Assimilated needs-based hardware,3,23,47569.48,321,True,4.02
+223,Versatile multi-state frame,19,58,34088.56,451,True,3.54
+224,Robust attitude-oriented complexity,20,42,43225.92,321,True,2.76
+225,Customer-focused tertiary database,16,57,31606.12,407,True,1.22
+226,Front-line optimal analyzer,17,10,15589.35,231,True,2.47
+227,Multi-lateral regional budgetary management,10,10,32268.86,500,False,3.46
+228,Down-sized methodical migration,17,50,23189.31,283,False,3.96
+229,Devolved logistical framework,2,58,45461.59,292,True,2.29
+230,Progressive zero administration policy,16,65,7627.97,31,True,4.24
+231,User-centric clear-thinking throughput,11,92,4308.02,330,True,1.99
+232,Programmable interactive infrastructure,15,57,26251.02,312,True,2.49
+233,Grass-roots even-keeled software,10,50,20497.59,173,True,1.21
+234,User-centric static forecast,11,9,16551.57,285,True,2.14
+235,Enhanced web-enabled paradigm,20,20,16734.77,298,True,4.67
+236,Persistent human-resource Local Area Network,10,84,34954.15,200,True,3.84
+237,Compatible actuating success,3,40,27990.21,329,True,4.25
+238,Up-sized fault-tolerant forecast,17,12,32336.64,216,True,1.07
+239,Multi-tiered directional infrastructure,10,24,47563.35,174,False,2.95
+240,Ameliorated scalable utilization,8,18,7831.76,151,False,1.4
+241,Right-sized intermediate project,18,95,44195.74,19,True,4.51
+242,Intuitive client-server groupware,20,17,29902.6,78,True,4.33
+243,Self-enabling discrete infrastructure,20,22,36087.03,22,True,3.71
+244,Reactive dedicated software,8,57,30568.71,385,True,2.8
+245,Innovative web-enabled attitude,18,31,15542.45,414,True,4.62
+246,Robust encompassing application,7,48,33947.51,292,False,2.85
+247,Reverse-engineered secondary moratorium,10,100,19155.43,270,True,1.65
+248,Distributed content-based intranet,7,78,7006.09,128,True,2.92
+249,Polarized empowering pricing structure,12,71,46721.25,364,False,4.4
+250,Universal client-driven concept,10,11,38179.53,139,True,3.05
+251,Sharable client-server portal,14,12,47326.02,113,False,4.54
+252,De-engineered impactful infrastructure,1,54,2757.52,257,True,2.54
+253,Horizontal 6thgeneration conglomeration,3,48,11304.48,163,False,4.36
+254,Innovative coherent matrix,11,19,6966.22,146,False,2.89
+255,Down-sized scalable challenge,5,98,35306.26,229,True,4.62
+256,Re-contextualized 24hour open system,1,33,10861.17,76,True,3.91
+257,Future-proofed solution-oriented encryption,17,55,5648.22,147,True,1.49
+258,Cloned optimal groupware,8,54,31983.69,318,True,1.44
+259,Assimilated national neural-net,16,77,26849.08,323,True,1.97
+260,Sharable grid-enabled complexity,5,38,21519.02,314,True,3.28
+261,Synergistic eco-centric database,6,86,33443.92,268,False,1.27
+262,Monitored context-sensitive hub,17,70,25415.65,259,True,2.56
+263,Ameliorated uniform Local Area Network,16,6,31819.97,191,True,1.06
+264,Synchronized bottom-line budgetary management,3,45,12132.18,336,True,4.09
+265,Profound grid-enabled portal,11,18,2312.35,279,True,3.57
+266,Polarized impactful adapter,15,90,23978.71,93,False,1.25
+267,Compatible client-server knowledge user,15,5,14742.78,22,True,4.54
+268,Integrated interactive orchestration,11,40,25817.64,417,True,2.01
+269,Managed 5thgeneration extranet,7,37,17913.01,399,True,3.62
+270,Cross-group tertiary synergy,9,16,39987.19,223,False,3.97
+271,Streamlined 4thgeneration contingency,13,44,48688.81,254,True,2.47
+272,Integrated asynchronous strategy,17,35,40077.29,372,True,2.72
+273,Future-proofed interactive throughput,6,70,14758.94,52,True,3.64
+274,Vision-oriented incremental capacity,10,58,30170.82,218,True,2.78
+275,Progressive didactic workforce,15,6,36368.04,466,True,4.99
+276,Implemented demand-driven complexity,9,82,49003.36,485,True,3.68
+277,Configurable scalable framework,13,47,25702.99,383,True,4.81
+278,Configurable disintermediate adapter,5,78,33936.63,224,True,1.27
+279,Innovative full-range infrastructure,12,47,19204.43,290,True,1.61
+280,Multi-layered content-based emulation,15,48,18663.47,390,True,1.55
+281,Extended client-server Local Area Network,12,51,15787.83,142,True,1.45
+282,Secured exuding firmware,6,64,25935.49,467,True,2.05
+283,Compatible needs-based groupware,9,91,22369.03,313,True,4.67
+284,Operative human-resource attitude,16,26,6219.61,436,True,1.69
+285,Implemented intermediate attitude,15,12,40544.61,495,False,2.28
+286,Streamlined reciprocal product,12,91,3340.46,277,True,2.2
+287,Intuitive value-added instruction set,6,92,35507.23,358,True,4.17
+288,Seamless demand-driven solution,17,29,6155.99,102,True,1.95
+289,Visionary heuristic contingency,16,4,18108.74,293,True,4.21
+290,Extended coherent system engine,18,17,30636.22,44,True,2.59
+291,Right-sized national strategy,16,68,20598.68,209,False,1.3
+292,Reverse-engineered motivating synergy,11,83,3800.83,238,True,2.38
+293,Synergized asynchronous moderator,18,82,29430.52,393,False,2.73
+294,Cloned non-volatile archive,2,16,25953.3,155,True,2.29
+295,Enterprise-wide tertiary time-frame,8,45,47379.41,265,False,4.38
+296,Switchable clear-thinking open system,9,26,31789.35,282,True,3.5
+297,Vision-oriented regional middleware,20,69,4762.08,328,True,4.77
+298,Triple-buffered even-keeled project,5,22,32970.77,368,False,2.35
+299,Optional didactic focus group,19,6,41279.29,14,True,4.79
+300,Synergistic bifurcated Internet solution,19,34,32591.39,392,True,3.47
+301,Configurable 24hour concept,1,64,44460.94,279,True,4.83
+302,Assimilated even-keeled approach,16,32,40253.94,350,True,2.81
+303,Re-engineered holistic capability,2,21,22036.31,247,True,2.36
+304,Business-focused homogeneous initiative,5,41,43088.11,163,True,4.44
+305,Cross-platform content-based leverage,13,17,38057.18,263,True,2.28
+306,Phased system-worthy hub,15,16,13446.84,126,True,1.2
+307,Seamless leadingedge structure,13,79,20964.92,492,False,1.64
+308,Grass-roots encompassing infrastructure,11,74,36084.31,97,True,2.99
+309,Total secondary core,17,60,24988.11,157,True,1.36
+310,Multi-lateral composite hardware,13,65,22915.81,123,True,2.41
+311,Horizontal optimal attitude,2,37,24795.22,451,False,3.69
+312,Synergized well-modulated emulation,10,69,508.05,55,True,4.53
+313,De-engineered exuding groupware,12,98,20222.38,23,True,3.28
+314,User-centric heuristic utilization,7,47,27705.82,37,True,2.8
+315,Cross-platform national core,18,36,41283.03,319,True,1.48
+316,Mandatory coherent Internet solution,4,51,18722.6,173,True,2.46
+317,Operative zero tolerance paradigm,5,26,30162.9,205,True,1.18
+318,Monitored heuristic concept,5,92,16718.73,242,True,1.6
+319,Multi-tiered system-worthy alliance,17,18,16465.5,313,True,2.57
+320,Persevering bifurcated interface,20,95,42145.84,303,True,4.31
+321,Customer-focused national hierarchy,18,63,35466.12,153,True,1.07
+322,Cloned intermediate adapter,11,87,5569.27,213,True,4.19
+323,Operative maximized access,1,77,23782.05,495,True,4.89
+324,Distributed discrete orchestration,19,74,11454.41,26,True,1.68
+325,Function-based object-oriented software,20,100,42074.24,75,False,1.97
+326,Synergized value-added architecture,19,90,5583.79,9,True,2.68
+327,Versatile solution-oriented customer loyalty,14,89,10274.19,256,True,4.68
+328,Optimized fresh-thinking standardization,2,91,6990.32,106,True,4.99
+329,Multi-lateral multi-state instruction set,16,68,18903.56,489,True,4.65
+330,Diverse heuristic productivity,11,70,17778.92,395,False,3.72
+331,Business-focused leadingedge intranet,9,79,24260.59,490,True,3.23
+332,Synchronized zero tolerance process improvement,8,39,38581.6,360,True,3.82
+333,Re-contextualized heuristic extranet,11,62,17505.28,478,False,3.89
+334,Balanced tertiary database,10,16,28716.49,278,True,4.92
+335,Re-contextualized dynamic forecast,12,99,40250.33,148,True,4.82
+336,Devolved exuding throughput,3,45,46208.08,335,True,2.92
+337,Future-proofed secondary contingency,7,69,13629.52,287,True,1.55
+338,Fundamental intangible budgetary management,20,95,29382.84,124,True,4.62
+339,Triple-buffered human-resource architecture,8,82,11718.54,51,True,3.87
+340,Reduced optimizing customer loyalty,4,88,38561.23,2,False,4.91
+341,Mandatory regional project,6,53,32679.35,450,False,2.91
+342,Customer-focused contextually-based extranet,7,97,48199.31,164,True,1.24
+343,Extended attitude-oriented structure,3,84,28749.25,273,True,4.4
+344,Secured multimedia monitoring,2,23,20952.46,428,True,4.68
+345,Triple-buffered system-worthy conglomeration,13,64,9396.95,383,False,4.7
+346,Versatile encompassing firmware,2,2,14989.77,308,True,4.93
+347,Virtual explicit infrastructure,10,59,49456.06,278,True,4.56
+348,Cloned logistical approach,5,65,23454.24,98,False,2.32
+349,Reactive object-oriented adapter,15,83,12937.52,95,True,2.35
+350,Ergonomic user-facing adapter,10,73,33752.62,98,True,4.42
+351,Mandatory mobile knowledge user,13,55,25812.5,44,True,1.38
+352,Quality-focused stable moratorium,5,62,16247.72,127,True,2.53
+353,Devolved bi-directional synergy,15,97,13423.02,168,True,3.89
+354,Stand-alone analyzing Graphic Interface,1,34,32718.8,354,True,3.67
+355,Organized systemic artificial intelligence,15,40,8069.87,351,True,4.58
+356,Polarized neutral info-mediaries,10,89,5959.05,469,False,2.47
+357,Operative incremental array,8,29,47872.29,244,True,3.99
+358,Intuitive background data-warehouse,20,48,20850.7,281,False,4.03
+359,Team-oriented systematic benchmark,7,98,12448.52,386,True,4.15
+360,Ergonomic motivating open system,17,58,26455.84,185,True,3.26
+361,Innovative secondary encryption,2,71,45154.12,103,True,1.6
+362,Versatile didactic collaboration,11,67,22147.84,348,True,3.33
+363,Switchable bottom-line synergy,3,66,22329.59,28,True,3.05
+364,Profit-focused upward-trending moratorium,15,73,2981.07,236,True,2.23
+365,Balanced value-added circuit,1,51,12797.42,1,True,3.31
+366,Grass-roots modular installation,2,55,17291.99,32,True,1.24
+367,Multi-tiered bifurcated methodology,3,61,1683.57,209,True,1.54
+368,Virtual explicit database,14,48,49643.54,195,True,4.67
+369,Open-architected bi-directional protocol,13,49,4104.47,493,True,3.16
+370,Multi-lateral cohesive functionalities,12,16,9005.83,275,True,1.51
+371,Progressive multi-tasking matrix,8,1,37833.35,500,True,3.69
+372,Automated directional productivity,18,55,26643.49,421,True,2.84
+373,Profit-focused scalable Local Area Network,5,36,9505.17,448,True,1.45
+374,Synchronized tangible Graphic Interface,14,79,38326.07,452,False,1.96
+375,Managed tertiary Graphical User Interface,3,13,29737.81,228,True,3.81
+376,Optional bi-directional contingency,2,32,37053.0,205,True,3.16
+377,Down-sized zero administration hardware,2,18,25244.4,148,True,4.67
+378,Virtual web-enabled encoding,19,41,28915.99,395,True,2.28
+379,Front-line didactic capability,10,19,49286.21,266,True,2.2
+380,Adaptive tertiary adapter,2,72,47431.16,450,True,1.7
+381,Total coherent focus group,14,72,24831.48,497,True,3.57
+382,Managed didactic system engine,13,68,16004.85,213,True,2.2
+383,Centralized asymmetric firmware,6,97,26942.62,123,False,2.2
+384,Visionary 3rdgeneration protocol,5,60,45745.58,287,True,2.67
+385,Grass-roots web-enabled functionalities,17,18,19482.11,130,True,3.59
+386,Cross-platform 24hour array,15,48,4713.95,370,False,1.21
+387,Ameliorated incremental ability,13,87,30287.98,20,False,1.75
+388,Centralized incremental software,19,93,33605.38,111,True,4.48
+389,Operative hybrid framework,11,39,47855.29,7,True,1.76
+390,Persistent regional policy,4,96,49978.64,245,False,3.78
+391,Intuitive responsive architecture,7,51,45764.81,282,True,2.13
+392,Advanced logistical attitude,15,69,32471.19,157,True,3.05
+393,Implemented tertiary interface,16,60,5020.55,369,True,4.36
+394,Public-key scalable process improvement,7,48,15714.81,23,True,1.89
+395,Open-source heuristic array,5,3,13112.63,478,True,3.88
+396,Future-proofed mobile flexibility,10,20,9889.97,117,True,4.33
+397,Open-source encompassing model,16,71,32764.94,350,True,4.05
+398,Public-key full-range flexibility,16,93,32120.55,251,True,3.93
+399,Ameliorated optimal extranet,12,22,7083.93,279,True,4.67
+400,Optional multi-tasking artificial intelligence,18,83,47866.12,268,True,4.39
+401,Grass-roots zero-defect installation,2,98,418.55,70,False,1.93
+402,Switchable intangible synergy,5,2,11014.11,233,True,3.47
+403,Vision-oriented dedicated artificial intelligence,20,62,32998.29,8,True,3.21
+404,Object-based bi-directional help-desk,1,3,26517.94,140,True,2.15
+405,Upgradable next generation project,17,90,33734.24,412,False,1.72
+406,Expanded national forecast,4,68,7529.98,98,True,2.01
+407,Ergonomic client-driven hierarchy,12,35,39767.32,40,True,2.62
+408,Open-source methodical complexity,19,32,49512.63,115,True,4.31
+409,Decentralized radical Local Area Network,3,84,49584.57,332,True,1.37
+410,Ameliorated neutral collaboration,13,49,27679.8,28,True,3.81
+411,Organic zero-defect hardware,3,64,42281.96,330,True,3.26
+412,Versatile national service-desk,4,68,45965.7,117,True,4.47
+413,Switchable motivating projection,19,61,13627.64,473,True,4.7
+414,Object-based well-modulated algorithm,18,73,32939.65,91,False,2.26
+415,Synergized system-worthy moratorium,7,76,7295.16,420,True,2.59
+416,Vision-oriented maximized benchmark,3,39,8206.27,123,True,4.4
+417,Sharable scalable service-desk,18,43,19253.93,378,True,4.95
+418,Organized mobile open system,3,65,37298.28,177,True,2.75
+419,Synergistic foreground help-desk,3,44,30297.92,314,False,2.59
+420,Balanced object-oriented methodology,11,4,31742.74,401,False,2.96
+421,Front-line motivating protocol,12,71,47063.03,221,True,3.34
+422,Open-source static superstructure,13,11,38631.15,151,True,3.85
+423,Cross-platform asymmetric process improvement,3,35,7795.63,364,True,1.62
+424,Cloned regional extranet,13,41,18098.94,46,True,2.23
+425,Synergistic zero-defect access,12,98,13561.35,67,True,2.72
+426,Business-focused grid-enabled benchmark,18,72,25670.8,52,True,2.42
+427,Realigned didactic artificial intelligence,3,77,29942.39,166,False,1.05
+428,Open-source neutral Internet solution,14,50,38980.54,371,False,4.62
+429,Open-architected foreground circuit,8,74,26103.12,350,True,1.56
+430,Total intangible encoding,10,35,24706.88,32,True,2.1
+431,Persistent foreground methodology,10,62,39155.06,184,True,1.99
+432,Organic responsive system engine,16,77,30871.77,234,True,2.22
+433,Integrated zero administration installation,13,43,42096.51,194,False,2.32
+434,Profound solution-oriented artificial intelligence,11,56,40792.23,440,True,3.38
+435,Quality-focused responsive initiative,10,42,30200.24,355,True,2.26
+436,Reactive optimal matrices,13,41,14643.26,355,True,4.87
+437,Customizable optimizing conglomeration,8,42,18865.16,418,True,2.46
+438,De-engineered user-facing application,19,26,29652.13,279,True,4.07
+439,Grass-roots empowering budgetary management,1,94,23134.95,362,True,4.19
+440,Extended coherent hub,3,53,33681.58,71,True,1.97
+441,Proactive attitude-oriented algorithm,5,92,21214.08,193,True,4.96
+442,Secured methodical focus group,16,75,20100.17,259,False,4.48
+443,Distributed tangible circuit,14,70,1934.58,495,True,4.58
+444,Decentralized executive initiative,18,77,31945.2,43,True,1.99
+445,Cross-platform next generation time-frame,12,22,32385.29,22,True,3.58
+446,Centralized bi-directional toolset,13,97,16646.68,407,True,1.04
+447,Assimilated high-level migration,9,29,25582.74,265,True,3.75
+448,Universal multi-state frame,8,58,18768.57,237,True,3.35
+449,Quality-focused intangible customer loyalty,17,20,17313.87,12,True,2.18
+450,Intuitive user-facing ability,3,15,41582.76,373,True,2.25
+451,Visionary dedicated data-warehouse,15,27,26103.63,178,True,2.75
+452,Optimized systematic framework,15,41,3452.0,22,False,1.46
+453,Automated stable infrastructure,11,83,5557.2,409,True,4.94
+454,Business-focused systematic data-warehouse,8,67,8805.22,81,True,2.71
+455,Proactive bifurcated array,15,30,39908.01,322,True,3.56
+456,Enterprise-wide context-sensitive hierarchy,14,51,1556.69,314,False,2.8
+457,Operative reciprocal circuit,14,50,322.06,109,True,4.01
+458,Profound leadingedge database,3,74,5177.43,446,True,2.46
+459,Adaptive systematic open architecture,7,59,5786.35,343,False,3.11
+460,Compatible systematic benchmark,11,77,19493.1,200,True,2.39
+461,Multi-tiered needs-based array,15,80,8709.12,344,True,2.19
+462,Object-based needs-based middleware,20,76,4329.12,68,True,1.95
+463,De-engineered optimizing middleware,4,24,18727.97,72,True,2.67
+464,Realigned asynchronous info-mediaries,5,74,19247.13,95,True,3.15
+465,Reduced web-enabled complexity,6,72,8426.59,147,True,2.26
+466,Reactive interactive alliance,15,80,2775.2,183,False,2.94
+467,Cross-platform methodical neural-net,7,50,48195.07,258,True,2.64
+468,Exclusive leadingedge archive,16,54,35536.1,227,True,1.33
+469,Enterprise-wide tangible solution,1,98,11104.42,16,True,3.15
+470,Fully-configurable actuating open architecture,6,100,22920.34,380,True,2.98
+471,Innovative logistical knowledgebase,17,15,28678.43,137,True,4.29
+472,Optional clear-thinking strategy,12,70,41148.29,21,True,2.77
+473,Enterprise-wide multimedia synergy,7,55,5210.58,424,True,1.99
+474,Customer-focused value-added model,2,58,13214.48,441,False,2.76
+475,Upgradable full-range firmware,4,100,40613.26,107,False,3.35
+476,Implemented eco-centric matrix,12,91,30552.06,219,True,1.56
+477,Implemented object-oriented policy,7,27,40291.48,291,True,2.12
+478,Enterprise-wide homogeneous moderator,18,22,16250.32,360,True,3.29
+479,Cross-group eco-centric knowledge user,17,87,40777.53,69,False,4.14
+480,Cross-group actuating challenge,2,36,43365.67,64,True,1.53
+481,Multi-layered homogeneous benchmark,5,92,16172.63,126,True,3.7
+482,Vision-oriented zero administration instruction set,16,19,28913.53,137,True,2.5
+483,Cross-platform contextually-based firmware,3,82,39750.47,393,True,3.06
+484,Synchronized directional forecast,9,89,46823.17,188,True,2.95
+485,Operative didactic synergy,19,1,43458.5,433,True,3.92
+486,Focused multi-tasking task-force,15,82,33240.78,183,False,4.18
+487,User-friendly bi-directional product,13,28,48409.62,422,True,2.07
+488,Innovative static knowledgebase,10,44,27410.8,66,True,2.94
+489,Innovative solution-oriented pricing structure,11,88,38136.48,23,True,4.14
+490,Open-source responsive product,15,3,6299.44,439,True,2.83
+491,Function-based content-based success,14,26,49785.13,465,True,3.6
+492,Persistent needs-based focus group,6,36,4757.67,184,True,2.49
+493,Function-based attitude-oriented help-desk,6,7,19877.44,156,True,4.02
+494,Operative human-resource adapter,14,84,4650.84,48,True,2.91
+495,Up-sized explicit service-desk,5,76,11386.92,348,True,1.03
+496,Ergonomic leadingedge complexity,11,16,49408.93,216,True,2.91
+497,User-friendly actuating matrix,8,50,4557.62,412,True,2.25
+498,Robust transitional Local Area Network,10,18,19197.78,416,True,1.53
+499,Re-engineered exuding extranet,5,9,26572.36,4,True,1.66
+500,Object-based tertiary function,12,93,10731.47,383,True,2.65
+501,Grass-roots hybrid approach,15,28,4425.73,51,True,1.49
+502,Cross-group fault-tolerant benchmark,13,45,48166.11,161,True,1.99
+503,Front-line holistic methodology,3,32,27714.49,307,True,2.14
+504,Digitized 3rdgeneration benchmark,1,85,43803.78,105,True,3.04
+505,Adaptive explicit middleware,13,38,32343.87,401,False,4.82
+506,User-centric object-oriented architecture,16,50,5725.91,255,True,1.28
+507,Advanced even-keeled protocol,1,47,46702.83,67,True,4.36
+508,Inverse even-keeled parallelism,14,47,27363.18,88,True,4.82
+509,Total full-range methodology,3,3,29409.44,7,True,1.16
+510,Mandatory cohesive architecture,2,51,25379.87,321,True,4.07
+511,Right-sized upward-trending knowledgebase,14,90,20173.64,327,True,3.46
+512,Optimized full-range task-force,9,11,15564.35,261,False,4.9
+513,Total hybrid adapter,5,69,16404.84,300,True,4.34
+514,Balanced tertiary solution,3,40,34963.93,373,False,1.95
+515,Horizontal needs-based info-mediaries,8,12,46238.92,59,True,3.44
+516,Re-contextualized zero tolerance success,10,86,37110.51,379,True,1.05
+517,Multi-layered national info-mediaries,5,90,666.4,254,False,3.09
+518,Operative disintermediate collaboration,9,22,18656.28,383,True,2.08
+519,Optional global orchestration,4,99,45004.88,171,False,2.09
+520,Automated upward-trending support,3,34,35644.93,295,True,2.98
+521,Re-engineered incremental utilization,17,47,2866.41,439,True,2.47
+522,Switchable background capability,9,99,5234.96,293,True,1.46
+523,Versatile mission-critical matrices,17,1,2297.49,441,True,1.18
+524,Vision-oriented bifurcated projection,12,50,46019.3,91,False,4.43
+525,Down-sized exuding access,18,92,37059.22,214,True,1.99
+526,Function-based asymmetric focus group,11,35,41317.25,292,True,3.01
+527,Stand-alone heuristic neural-net,2,23,11236.93,264,False,4.82
+528,Visionary dynamic capability,3,60,43315.01,396,False,2.31
+529,Expanded background knowledgebase,18,59,497.66,102,True,4.14
+530,Organic 4thgeneration system engine,20,32,23249.94,302,False,4.99
+531,Pre-emptive zero-defect array,7,94,45032.12,389,True,1.6
+532,Self-enabling empowering throughput,14,4,11726.59,177,True,3.77
+533,Realigned stable open system,1,43,172.96,336,True,3.95
+534,Innovative asymmetric budgetary management,10,14,10339.2,121,True,4.84
+535,Compatible client-server structure,5,92,14063.28,22,False,4.59
+536,Persistent tertiary definition,17,53,35072.26,190,True,3.99
+537,Compatible bottom-line Internet solution,19,13,25320.85,326,False,1.3
+538,Networked zero-defect data-warehouse,19,8,21805.65,493,True,2.17
+539,Focused zero tolerance benchmark,11,51,35066.21,376,True,2.81
+540,Extended background attitude,8,10,47183.38,69,True,3.34
+541,Vision-oriented secondary software,5,14,8302.31,238,True,1.48
+542,Grass-roots multi-state challenge,12,99,10461.05,157,True,4.41
+543,Reduced asymmetric Graphic Interface,3,21,40399.09,155,False,3.79
+544,Realigned interactive structure,2,28,41812.65,167,True,3.84
+545,Profound modular matrices,12,51,25721.64,346,True,4.28
+546,Total grid-enabled workforce,6,4,47609.62,437,True,3.99
+547,Ergonomic heuristic protocol,8,13,23155.96,411,True,1.49
+548,Exclusive contextually-based system engine,2,100,49130.11,66,True,2.6
+549,Virtual asynchronous budgetary management,3,75,29347.33,469,False,1.09
+550,Streamlined tertiary throughput,3,26,45134.55,227,False,1.37
+551,Multi-layered high-level project,11,16,2230.55,236,True,4.7
+552,Operative object-oriented adapter,14,93,19810.43,15,True,2.71
+553,Cloned local support,12,28,45424.38,140,True,4.53
+554,Exclusive solution-oriented capability,2,79,30996.91,125,True,3.0
+555,Robust 6thgeneration circuit,18,62,3142.86,143,True,2.68
+556,Enhanced exuding system engine,17,32,31574.64,410,True,1.08
+557,Front-line mission-critical collaboration,13,92,18019.69,278,True,2.38
+558,Horizontal explicit forecast,19,65,16148.06,138,True,2.28
+559,Synergized bandwidth-monitored methodology,8,4,44798.66,398,True,4.23
+560,Profit-focused directional encoding,16,68,17935.9,299,False,4.9
+561,Persistent human-resource customer loyalty,4,32,32877.53,136,True,4.16
+562,Face-to-face cohesive neural-net,2,98,49819.96,112,True,4.93
+563,Public-key fault-tolerant knowledgebase,13,46,46766.78,432,True,1.95
+564,User-friendly hybrid database,11,95,34911.57,467,True,3.81
+565,Open-source methodical standardization,12,73,28223.96,288,False,4.35
+566,De-engineered background budgetary management,16,70,15521.75,251,True,1.22
+567,Configurable empowering moderator,20,29,1094.41,244,True,4.67
+568,De-engineered multi-tasking hardware,7,17,17103.88,90,False,4.38
+569,Advanced national leverage,11,8,1193.45,300,True,1.57
+570,Grass-roots real-time database,4,68,43047.41,491,True,3.82
+571,Operative leadingedge framework,13,76,5141.51,154,True,4.9
+572,Public-key multi-tasking architecture,14,82,48037.04,332,True,3.83
+573,Integrated bi-directional model,18,89,44491.05,314,True,1.89
+574,Open-architected heuristic function,19,23,18981.37,375,True,1.51
+575,Persistent foreground initiative,1,90,47440.04,200,False,4.08
+576,Seamless directional algorithm,19,5,9185.88,162,False,4.87
+577,Assimilated systematic collaboration,8,82,28320.96,479,True,2.32
+578,Down-sized coherent complexity,3,31,17405.83,163,True,4.54
+579,Face-to-face zero tolerance solution,3,91,33534.23,373,False,2.79
+580,Streamlined bandwidth-monitored leverage,9,27,12552.09,34,True,4.15
+581,Total tertiary encryption,1,7,19358.26,375,True,1.67
+582,Cloned intermediate conglomeration,14,64,44100.36,179,True,1.41
+583,Multi-layered homogeneous array,16,74,32583.38,351,True,2.81
+584,Monitored optimal pricing structure,2,38,1101.89,133,False,1.3
+585,Self-enabling responsive hub,6,49,8129.13,38,True,4.59
+586,Realigned upward-trending Local Area Network,3,44,29742.12,314,False,3.82
+587,Adaptive asymmetric toolset,14,84,8333.36,455,True,1.21
+588,Down-sized systemic alliance,11,27,48722.48,209,True,3.89
+589,Universal transitional Graphic Interface,18,34,33063.83,152,True,1.2
+590,Inverse foreground workforce,19,71,42008.74,78,True,1.02
+591,Down-sized optimal core,3,38,41212.48,320,True,1.8
+592,Future-proofed interactive customer loyalty,1,27,8624.53,149,False,2.89
+593,Cross-platform radical ability,4,40,39265.34,241,True,3.64
+594,Fundamental attitude-oriented website,3,83,27251.89,94,True,2.53
+595,Customer-focused bi-directional project,6,58,2326.38,225,True,1.9
+596,Business-focused tangible access,9,73,3175.8,385,True,1.39
+597,Assimilated homogeneous secured line,12,70,20757.93,387,True,3.21
+598,Persistent logistical budgetary management,13,67,20989.74,274,True,4.75
+599,Optional composite capability,19,31,23865.49,40,True,4.42
+600,Multi-layered secondary pricing structure,2,65,28603.87,264,False,3.71
+601,Reactive contextually-based model,20,19,6102.07,387,True,4.8
+602,Decentralized zero-defect challenge,6,28,40442.19,64,True,1.31
+603,Multi-layered holistic conglomeration,14,26,49863.73,321,True,3.38
+604,Ergonomic analyzing application,11,94,45717.28,34,True,3.23
+605,Monitored well-modulated hardware,18,42,42845.55,266,True,4.49
+606,Reduced cohesive policy,20,76,26175.84,214,True,1.6
+607,Innovative fault-tolerant throughput,19,76,29175.59,493,False,4.7
+608,Persistent 5thgeneration orchestration,19,100,5139.42,146,False,4.52
+609,Digitized full-range productivity,14,34,19213.87,248,True,2.89
+610,Cross-group heuristic core,6,36,20208.4,316,True,3.77
+611,Progressive regional solution,2,51,44489.75,169,True,1.2
+612,Persistent systematic algorithm,16,35,44861.86,10,True,4.17
+613,Switchable national ability,10,36,42158.04,439,True,1.39
+614,Polarized global array,8,18,15093.97,380,True,4.3
+615,Total contextually-based application,9,94,20896.96,330,True,2.77
+616,Advanced secondary moderator,14,95,24274.57,264,False,4.28
+617,Up-sized secondary algorithm,17,21,3374.29,363,True,1.54
+618,Open-architected client-server capability,17,73,1544.51,98,False,1.8
+619,Self-enabling analyzing complexity,2,32,1750.25,25,False,3.82
+620,Persevering interactive analyzer,9,48,41192.96,258,True,4.69
+621,Future-proofed static architecture,1,31,18686.09,304,True,4.84
+622,Horizontal homogeneous leverage,16,76,27611.55,176,True,4.58
+623,Distributed intermediate definition,3,37,1469.78,25,True,3.29
+624,Organized optimal firmware,7,29,32404.26,346,True,3.61
+625,Digitized multi-state application,17,3,43245.03,495,True,1.04
+626,Customer-focused scalable complexity,5,83,8742.71,410,True,2.01
+627,Programmable transitional extranet,10,92,48354.52,329,True,4.58
+628,Reverse-engineered value-added Internet solution,12,59,12674.74,238,True,3.08
+629,Digitized even-keeled policy,20,51,29265.91,3,True,3.65
+630,Compatible regional application,12,72,32402.37,311,True,3.74
+631,Re-engineered tertiary budgetary management,16,9,16880.55,141,True,4.45
+632,User-friendly grid-enabled migration,9,84,35583.58,456,True,1.75
+633,Pre-emptive bifurcated pricing structure,17,98,12091.07,29,False,4.21
+634,Persistent solution-oriented conglomeration,20,52,33060.46,348,True,1.1
+635,Extended non-volatile access,16,38,13045.37,214,True,3.95
+636,Mandatory intangible emulation,19,91,49738.21,417,True,3.91
+637,Automated web-enabled superstructure,8,88,26778.29,401,True,4.76
+638,Business-focused explicit forecast,12,65,15079.72,87,False,4.51
+639,Reactive reciprocal frame,6,38,4970.39,65,True,3.9
+640,Implemented analyzing installation,18,98,45639.98,484,True,2.34
+641,Persevering 5thgeneration hub,3,29,17828.64,381,False,2.68
+642,Robust systematic policy,11,48,13101.91,150,True,1.47
+643,Function-based solution-oriented benchmark,2,82,29220.37,483,True,2.89
+644,Managed real-time ability,7,65,6078.82,348,True,2.19
+645,Configurable systemic support,2,20,6954.53,102,True,4.95
+646,Realigned impactful toolset,15,19,15887.53,366,True,1.32
+647,Realigned motivating architecture,11,81,49333.35,160,True,1.02
+648,Implemented didactic contingency,9,27,38083.54,86,True,1.63
+649,Up-sized interactive algorithm,3,17,30762.54,324,True,2.72
+650,Robust asymmetric synergy,16,50,332.99,273,True,2.49
+651,Optimized 6thgeneration alliance,1,42,37866.7,271,True,3.71
+652,Re-engineered multimedia utilization,8,29,34706.88,176,True,1.41
+653,Sharable exuding product,17,76,15375.14,33,False,2.19
+654,Visionary zero tolerance adapter,10,59,36418.81,305,True,2.73
+655,Front-line transitional capacity,5,44,49807.33,250,True,1.75
+656,Synchronized value-added throughput,13,3,11498.07,372,False,1.84
+657,Organized local framework,1,76,25281.21,63,True,3.6
+658,Mandatory disintermediate function,2,49,43839.55,130,True,3.49
+659,Multi-lateral executive framework,20,7,33132.3,334,False,1.19
+660,User-friendly heuristic orchestration,4,54,22271.28,63,True,2.9
+661,Assimilated homogeneous conglomeration,5,27,34790.08,322,True,2.68
+662,Synergized context-sensitive concept,4,85,26063.43,318,True,1.55
+663,Self-enabling next generation product,4,66,35966.43,60,True,4.14
+664,Seamless homogeneous contingency,16,26,30489.19,398,True,3.09
+665,Grass-roots tertiary success,7,46,35201.49,151,True,3.19
+666,Reverse-engineered static attitude,7,89,46662.9,169,True,1.05
+667,Down-sized secondary focus group,3,15,41778.09,342,True,4.8
+668,Optional grid-enabled software,17,10,36205.82,51,False,3.58
+669,Function-based disintermediate intranet,15,38,13279.84,25,True,1.7
+670,Vision-oriented client-driven benchmark,2,38,18074.71,346,True,3.95
+671,Seamless radical core,4,98,44525.57,4,False,3.65
+672,Configurable optimizing encoding,6,43,17940.62,224,False,2.07
+673,Implemented holistic Graphic Interface,3,48,40766.72,93,True,2.6
+674,Implemented encompassing capability,15,35,41801.85,353,False,4.2
+675,Distributed multimedia monitoring,6,15,6712.33,371,True,4.77
+676,Synergistic zero administration encryption,6,14,20859.78,302,True,3.28
+677,Enterprise-wide upward-trending support,15,24,30605.03,398,True,1.12
+678,Automated bandwidth-monitored throughput,5,62,46027.86,57,False,2.76
+679,Organized 24hour budgetary management,3,34,32783.18,6,True,3.71
+680,Networked national time-frame,19,93,28294.11,500,False,4.49
+681,Organized fresh-thinking knowledge user,17,67,34443.26,316,True,3.65
+682,Compatible analyzing migration,8,62,17352.9,346,True,1.59
+683,Mandatory stable website,18,79,2822.85,329,False,3.02
+684,Public-key system-worthy alliance,16,64,43483.84,38,True,2.28
+685,De-engineered actuating encoding,11,36,2612.5,114,True,2.51
+686,Up-sized asymmetric artificial intelligence,8,11,23008.82,410,True,1.35
+687,Phased user-facing service-desk,16,58,15871.47,254,True,1.07
+688,Decentralized optimizing superstructure,13,53,1888.01,281,True,1.36
+689,Distributed modular matrices,20,80,31913.15,455,True,1.83
+690,Networked radical solution,15,44,18230.79,27,False,4.38
+691,Enhanced analyzing adapter,11,72,38394.08,307,True,3.63
+692,Function-based tangible superstructure,15,15,4962.11,337,True,2.37
+693,Managed motivating groupware,10,71,26147.06,359,True,4.59
+694,Future-proofed cohesive model,16,18,41109.75,380,True,1.43
+695,Programmable heuristic concept,20,26,9458.42,476,False,1.86
+696,Optional hybrid solution,7,92,16962.88,387,True,4.71
+697,Secured discrete superstructure,19,16,38630.04,230,True,3.36
+698,Fundamental interactive forecast,17,18,48196.35,2,True,1.19
+699,Devolved exuding support,14,75,24198.3,260,True,4.64
+700,Adaptive demand-driven moderator,19,23,36551.68,65,True,3.63
+701,Persistent 5thgeneration flexibility,20,42,25255.09,196,True,3.44
+702,Extended bandwidth-monitored synergy,8,36,19953.71,175,False,2.81
+703,Right-sized 3rdgeneration ability,5,18,20696.0,358,False,3.05
+704,Configurable regional architecture,18,41,35622.53,478,True,1.87
+705,Switchable tangible archive,7,80,35747.79,351,True,3.69
+706,Seamless executive access,6,65,27170.32,326,True,1.46
+707,Reactive clear-thinking middleware,12,72,24070.46,292,False,3.84
+708,Upgradable clear-thinking info-mediaries,18,37,43886.11,216,False,3.09
+709,Phased even-keeled protocol,1,49,7351.8,343,True,2.07
+710,Future-proofed high-level Graphical User Interface,6,37,34201.18,74,False,3.76
+711,Persevering 24hour hardware,10,27,37704.34,16,True,2.81
+712,Stand-alone uniform adapter,20,87,37000.67,442,True,3.59
+713,Innovative well-modulated budgetary management,13,31,25595.02,407,True,2.15
+714,Fundamental global model,2,49,19438.98,489,True,3.74
+715,Reverse-engineered homogeneous Internet solution,18,7,746.97,128,True,4.48
+716,Cloned holistic architecture,15,29,45583.17,360,True,2.47
+717,Self-enabling neutral challenge,19,70,36948.66,100,True,4.86
+718,Function-based explicit archive,10,58,8953.55,349,True,4.85
+719,Realigned asynchronous paradigm,17,16,18922.19,219,True,2.06
+720,Advanced context-sensitive access,6,75,42316.11,2,True,3.84
+721,Multi-tiered heuristic core,5,6,7769.8,165,True,4.09
+722,Future-proofed heuristic functionalities,20,85,15127.63,404,True,2.43
+723,Right-sized interactive knowledge user,11,68,11076.1,94,True,4.15
+724,Balanced radical instruction set,6,54,27199.7,206,True,1.88
+725,Intuitive mobile hierarchy,7,85,16660.99,184,True,4.8
+726,Visionary user-facing framework,20,68,23795.37,287,False,4.92
+727,Mandatory client-driven archive,1,15,33480.03,228,True,3.57
+728,Right-sized heuristic toolset,20,32,47948.95,349,False,2.53
+729,Profit-focused executive open system,4,50,12903.87,370,True,4.65
+730,Re-contextualized analyzing productivity,12,66,40160.56,228,True,2.19
+731,Multi-layered clear-thinking methodology,7,42,25743.35,485,True,4.89
+732,Multi-layered demand-driven frame,18,69,465.8,33,True,3.52
+733,Ameliorated systematic model,7,88,21268.05,53,True,4.31
+734,Adaptive cohesive benchmark,14,83,40856.04,36,True,1.62
+735,Seamless foreground neural-net,15,92,16652.6,44,True,1.71
+736,Object-based even-keeled implementation,9,72,3615.06,420,True,2.03
+737,Phased intangible info-mediaries,13,58,31547.84,221,True,2.56
+738,Implemented systemic Graphical User Interface,4,69,394.36,368,True,4.02
+739,Integrated fault-tolerant forecast,19,6,35074.01,37,True,3.01
+740,Multi-tiered homogeneous instruction set,10,88,15137.4,44,True,4.71
+741,Team-oriented demand-driven knowledge user,13,51,41123.91,15,True,3.13
+742,Self-enabling regional parallelism,5,96,19610.53,408,False,2.18
+743,Focused secondary open architecture,5,39,33896.72,468,False,4.47
+744,Distributed needs-based leverage,12,2,27720.86,284,True,1.17
+745,Advanced non-volatile methodology,19,77,19764.68,280,False,2.22
+746,Future-proofed zero administration hub,12,28,20691.46,330,False,1.57
+747,Centralized regional interface,6,29,30882.56,129,True,1.73
+748,Organic value-added budgetary management,19,7,42584.25,477,False,3.2
+749,Fundamental mission-critical help-desk,18,10,14603.57,34,True,1.79
+750,Phased fault-tolerant workforce,19,63,47581.84,182,True,3.62
+751,Distributed coherent function,4,37,31013.84,460,True,2.94
+752,Extended mission-critical firmware,11,79,33005.17,355,True,3.26
+753,Optimized composite circuit,12,41,47937.08,86,True,1.98
+754,Front-line mobile infrastructure,8,92,37016.83,223,True,2.44
+755,Focused value-added instruction set,11,62,23196.13,183,True,2.95
+756,Open-architected asynchronous matrices,4,23,32313.03,41,False,4.43
+757,Multi-layered national product,5,69,9901.95,375,False,1.31
+758,Persevering directional infrastructure,3,3,42494.4,323,True,3.33
+759,Adaptive optimizing encryption,13,99,29542.81,464,True,2.04
+760,Secured mission-critical data-warehouse,18,61,32730.02,76,True,1.89
+761,Synergized clear-thinking initiative,19,94,42872.49,68,True,3.04
+762,Virtual fault-tolerant encoding,13,47,25158.15,339,True,4.86
+763,Focused bi-directional migration,20,88,8375.59,263,True,1.64
+764,Virtual scalable workforce,19,73,33004.72,495,True,3.93
+765,Extended value-added frame,12,6,11019.07,249,True,2.06
+766,Optimized bandwidth-monitored application,8,6,33462.42,265,False,2.45
+767,Reduced leadingedge circuit,16,59,44089.44,20,False,2.3
+768,Operative intermediate service-desk,17,82,41499.39,427,True,3.31
+769,Synchronized maximized adapter,19,23,18895.31,193,True,3.61
+770,Innovative upward-trending database,3,67,12654.16,498,False,3.07
+771,Object-based content-based flexibility,12,45,24394.39,246,False,1.03
+772,Ameliorated mission-critical process improvement,5,57,8363.73,39,True,2.12
+773,Optional uniform algorithm,5,24,7952.13,308,True,1.47
+774,Multi-layered optimizing encoding,8,54,40577.51,368,True,3.7
+775,Multi-layered context-sensitive framework,16,27,29580.47,331,False,1.09
+776,Cross-platform non-volatile architecture,2,17,28716.98,82,True,3.05
+777,Ergonomic empowering ability,19,19,2890.01,132,False,3.07
+778,Optional responsive implementation,13,77,48465.26,326,True,3.88
+779,Open-architected cohesive protocol,10,11,10908.01,310,False,4.47
+780,Implemented actuating frame,6,29,41535.14,307,True,3.33
+781,Assimilated motivating conglomeration,6,80,33016.47,135,True,3.74
+782,Quality-focused client-server product,15,77,29570.74,117,True,1.53
+783,Streamlined contextually-based algorithm,1,26,26183.3,465,True,2.68
+784,Configurable encompassing benchmark,5,78,4905.3,243,False,3.4
+785,Triple-buffered interactive contingency,18,65,37643.92,47,True,1.52
+786,Stand-alone zero tolerance process improvement,20,70,41393.34,459,False,3.71
+787,Re-contextualized leadingedge circuit,14,67,21092.13,447,True,3.12
+788,Re-engineered value-added matrix,8,62,39498.82,195,True,4.22
+789,Adaptive context-sensitive system engine,19,13,21331.92,130,True,1.93
+790,Visionary analyzing analyzer,3,37,29954.79,278,True,1.76
+791,Adaptive zero tolerance productivity,1,74,26174.78,266,True,3.62
+792,User-friendly heuristic monitoring,11,53,18177.26,79,True,3.34
+793,Versatile didactic synergy,9,69,21235.72,187,True,4.97
+794,Function-based human-resource website,13,97,10264.31,282,True,2.93
+795,Profit-focused background open system,12,72,27790.08,129,False,3.31
+796,Cross-platform full-range infrastructure,13,95,6989.62,442,True,3.99
+797,Automated bifurcated product,15,90,47467.33,51,True,2.6
+798,Down-sized bifurcated flexibility,11,71,30739.87,350,True,1.64
+799,Profit-focused impactful function,1,12,41180.45,241,False,2.74
+800,Persistent object-oriented architecture,3,34,11166.34,40,True,3.9
+801,Enhanced modular instruction set,13,79,32843.14,146,True,3.39
+802,Compatible fault-tolerant encryption,6,82,24768.98,5,True,3.63
+803,Horizontal high-level workforce,17,37,9817.85,401,True,3.06
+804,Self-enabling homogeneous support,8,79,8557.2,18,True,3.62
+805,Pre-emptive solution-oriented capability,6,12,49841.18,399,True,3.68
+806,Profound contextually-based encryption,13,76,10095.49,7,True,1.27
+807,Automated well-modulated open architecture,3,71,14296.24,424,True,3.33
+808,Synergized secondary forecast,12,36,11392.15,493,True,4.72
+809,Team-oriented hybrid migration,19,1,13129.26,208,True,3.23
+810,Phased uniform structure,17,38,17064.3,59,False,4.83
+811,Networked coherent moderator,18,74,12582.06,226,False,3.25
+812,Synchronized non-volatile synergy,8,97,17049.07,397,True,2.84
+813,Re-contextualized transitional utilization,19,4,24150.31,132,True,3.53
+814,Reduced uniform paradigm,8,87,35088.69,409,True,4.82
+815,Self-enabling cohesive flexibility,17,69,585.19,426,True,2.15
+816,Visionary disintermediate monitoring,13,87,37464.53,175,True,4.73
+817,Organic bi-directional capacity,16,41,17741.54,457,True,1.73
+818,Progressive 24/7 support,7,64,36881.9,120,True,4.49
+819,Vision-oriented needs-based moderator,7,30,10218.05,127,False,2.42
+820,Diverse demand-driven complexity,4,16,46017.39,346,False,2.97
+821,Self-enabling background installation,1,98,42868.76,490,True,2.93
+822,Stand-alone coherent projection,20,41,24667.78,451,False,4.48
+823,Future-proofed leadingedge secured line,16,24,49221.29,468,True,2.59
+824,Balanced user-facing time-frame,19,17,2801.99,409,True,4.76
+825,Polarized fault-tolerant pricing structure,2,65,17429.72,440,True,1.7
+826,Cross-platform client-driven emulation,4,90,25958.44,161,True,1.05
+827,Front-line global throughput,7,49,29092.31,166,True,4.45
+828,Pre-emptive radical standardization,6,71,13216.17,137,True,3.45
+829,Seamless motivating task-force,12,24,24988.62,107,True,4.01
+830,Ergonomic clear-thinking methodology,12,52,14053.51,92,True,4.92
+831,Multi-tiered well-modulated knowledge user,8,13,36068.69,411,True,2.73
+832,Synchronized global throughput,13,26,7377.6,491,True,2.89
+833,Enterprise-wide analyzing system engine,1,23,21133.88,68,False,4.4
+834,Balanced client-driven methodology,17,69,36055.96,402,True,2.0
+835,Fully-configurable full-range definition,19,7,19980.25,353,True,1.86
+836,Open-architected real-time service-desk,9,61,41964.69,49,True,2.34
+837,Stand-alone 24/7 hardware,12,47,28061.47,477,False,2.38
+838,Progressive heuristic model,14,16,17619.42,347,False,1.8
+839,Persistent non-volatile throughput,19,84,32491.63,89,False,2.14
+840,Reactive web-enabled standardization,11,87,25571.18,396,True,4.56
+841,Virtual explicit concept,13,79,14397.53,323,False,4.47
+842,Multi-channeled 24/7 monitoring,11,54,31600.54,292,True,4.63
+843,Persevering attitude-oriented collaboration,3,21,17246.91,160,True,2.17
+844,Grass-roots heuristic pricing structure,9,78,32267.75,138,False,4.12
+845,Object-based fault-tolerant throughput,12,96,29387.3,494,True,1.67
+846,Profit-focused 6thgeneration structure,1,17,36415.84,338,True,3.98
+847,Face-to-face 24/7 model,3,27,8428.83,52,True,4.75
+848,Ameliorated hybrid migration,16,71,2785.89,394,True,4.06
+849,Enterprise-wide executive software,3,14,13196.37,79,True,4.73
+850,Stand-alone systemic hub,13,40,11544.86,377,True,3.51
+851,Configurable asymmetric open system,5,68,41942.04,14,True,2.43
+852,Profound fresh-thinking strategy,11,61,23412.95,445,True,2.09
+853,Focused directional archive,15,18,48480.16,357,True,3.36
+854,Phased 3rdgeneration help-desk,15,81,37470.69,449,True,3.09
+855,Cloned modular software,18,40,45455.27,246,True,4.22
+856,Persistent high-level product,15,40,18352.59,133,True,1.04
+857,Grass-roots transitional circuit,17,98,42412.53,176,True,3.14
+858,Open-source empowering architecture,16,97,23905.65,4,True,4.19
+859,Reduced analyzing concept,20,30,39858.69,280,True,2.65
+860,Mandatory hybrid infrastructure,18,56,19798.13,83,True,3.58
+861,Cross-group responsive model,13,29,13222.72,216,True,3.07
+862,Versatile human-resource encoding,20,89,34263.55,145,True,3.13
+863,Innovative motivating throughput,9,53,9481.23,35,True,2.16
+864,Multi-channeled demand-driven success,15,80,22693.08,358,True,1.75
+865,Triple-buffered user-facing interface,1,20,2576.64,273,True,4.89
+866,Vision-oriented motivating database,10,35,6339.46,224,True,1.93
+867,Organic national Graphical User Interface,5,2,24729.62,175,True,4.14
+868,Configurable tangible system engine,16,48,23237.85,405,True,1.32
+869,Operative non-volatile Graphic Interface,5,8,13398.53,200,True,2.88
+870,Inverse background complexity,7,33,40880.81,424,True,4.9
+871,Adaptive even-keeled encryption,8,50,38584.14,226,True,4.98
+872,Down-sized client-driven policy,7,59,36792.61,48,True,4.93
+873,Synergized radical website,16,50,34103.97,159,False,1.63
+874,De-engineered real-time portal,2,96,46877.3,266,True,2.92
+875,Organic regional productivity,10,26,18085.29,26,False,1.87
+876,Visionary maximized core,4,31,31682.16,166,True,4.18
+877,Profound reciprocal budgetary management,19,16,19850.83,124,True,1.17
+878,Function-based needs-based strategy,16,89,29850.99,190,True,1.99
+879,User-centric needs-based website,16,12,34328.64,173,False,4.99
+880,Networked systemic middleware,2,8,17840.33,78,True,4.17
+881,Horizontal fault-tolerant matrix,5,63,11710.46,285,True,4.03
+882,Extended modular instruction set,15,94,9728.97,352,True,3.9
+883,Secured holistic adapter,9,6,24316.58,224,True,3.17
+884,Managed directional monitoring,16,25,28378.42,278,True,3.93
+885,Function-based upward-trending paradigm,9,77,45732.25,283,True,3.12
+886,Organized coherent capacity,15,38,40988.99,277,True,1.0
+887,Ergonomic analyzing info-mediaries,17,49,36709.52,452,True,4.43
+888,Pre-emptive 4thgeneration leverage,20,31,16102.64,32,True,3.16
+889,Pre-emptive bandwidth-monitored synergy,13,25,26251.08,254,True,1.62
+890,Networked bifurcated emulation,10,42,20549.25,164,True,3.09
+891,Total secondary architecture,3,6,41776.15,66,True,1.13
+892,Fully-configurable uniform encryption,4,63,9661.67,16,True,4.35
+893,Expanded real-time moratorium,16,68,31236.13,302,True,2.47
+894,Robust intermediate array,20,92,3636.61,476,False,3.62
+895,Phased asynchronous circuit,3,60,40070.9,31,True,3.97
+896,Customer-focused bifurcated productivity,14,48,39733.05,29,False,2.06
+897,Programmable multi-state customer loyalty,2,94,3612.37,155,True,1.86
+898,Ameliorated even-keeled help-desk,17,13,5151.13,118,True,1.76
+899,Versatile high-level service-desk,17,85,12513.28,320,False,3.23
+900,Progressive hybrid groupware,18,54,37330.81,392,True,2.43
+901,Quality-focused zero-defect standardization,15,90,33295.59,452,True,4.17
+902,Down-sized leadingedge function,18,52,25284.17,336,True,4.99
+903,Fundamental context-sensitive help-desk,15,46,45134.0,281,False,2.3
+904,Managed didactic array,12,53,38232.8,220,False,2.29
+905,Business-focused static extranet,8,73,27326.75,192,True,4.7
+906,Function-based local help-desk,9,47,48086.42,229,False,1.0
+907,Distributed fresh-thinking Internet solution,2,37,29828.57,265,True,4.56
+908,Universal fresh-thinking benchmark,1,39,49221.28,109,False,1.09
+909,Managed intangible flexibility,9,71,25612.45,292,False,1.62
+910,Enhanced fault-tolerant productivity,2,59,17847.22,70,True,4.56
+911,Triple-buffered heuristic installation,8,30,12886.57,153,True,2.6
+912,Object-based foreground project,7,94,3952.36,166,True,1.69
+913,Persistent zero administration complexity,19,13,29802.04,153,True,4.23
+914,Switchable full-range initiative,13,11,39028.08,471,True,2.39
+915,Synergized bifurcated ability,14,54,46519.28,61,False,1.91
+916,Secured client-server workforce,20,2,31730.97,323,True,2.22
+917,Multi-channeled intangible hub,2,41,27042.49,76,True,3.79
+918,Exclusive 3rdgeneration challenge,5,7,33714.4,201,False,4.01
+919,Secured exuding time-frame,19,65,4595.14,221,True,2.58
+920,Reactive mobile solution,5,44,4219.0,292,True,3.19
+921,Innovative bi-directional structure,9,11,19986.5,222,True,1.52
+922,Function-based non-volatile middleware,5,62,28008.88,249,True,3.29
+923,Multi-lateral bifurcated definition,18,79,49854.23,268,True,1.29
+924,Programmable scalable productivity,14,42,34268.42,294,True,3.69
+925,Polarized explicit project,14,47,17480.56,164,True,3.62
+926,Future-proofed intangible utilization,10,22,49383.83,315,False,4.21
+927,Optimized web-enabled encoding,20,19,22079.12,473,False,1.8
+928,Customizable empowering framework,12,20,37910.92,436,True,3.96
+929,Reverse-engineered bandwidth-monitored system engine,8,80,46343.81,444,False,2.15
+930,Up-sized grid-enabled instruction set,11,89,40233.61,156,True,1.09
+931,Customer-focused non-volatile utilization,7,95,26946.47,104,True,4.0
+932,Self-enabling 24/7 data-warehouse,18,62,31189.8,72,True,3.67
+933,Streamlined clear-thinking hub,13,75,45311.41,269,True,1.68
+934,Diverse foreground algorithm,10,26,39480.51,316,True,2.86
+935,Balanced client-server adapter,1,9,19493.39,138,True,4.65
+936,Reverse-engineered analyzing adapter,12,14,1052.01,444,False,2.55
+937,Mandatory empowering workforce,13,66,48832.94,50,False,2.94
+938,Up-sized systematic task-force,20,69,4492.23,101,True,2.83
+939,Fundamental zero administration matrices,1,6,12444.87,271,True,2.96
+940,Grass-roots didactic throughput,6,3,17404.32,180,True,2.21
+941,Assimilated hybrid adapter,17,36,40613.45,320,True,2.55
+942,Exclusive leadingedge implementation,1,72,47460.91,115,True,4.59
+943,Polarized fresh-thinking implementation,5,12,36521.49,266,False,3.45
+944,Reverse-engineered composite knowledgebase,8,54,12094.0,78,True,2.25
+945,Phased demand-driven definition,20,43,22513.54,67,True,1.55
+946,Secured coherent flexibility,18,88,40025.24,441,True,3.75
+947,Reverse-engineered discrete groupware,17,18,21560.21,465,False,1.58
+948,Enhanced reciprocal knowledgebase,19,21,15943.06,285,True,3.88
+949,Stand-alone value-added access,6,41,41992.17,74,True,4.06
+950,Phased well-modulated middleware,14,53,15237.07,381,False,4.58
+951,Universal composite service-desk,9,20,38977.48,54,True,1.1
+952,Focused logistical architecture,20,79,13416.44,290,True,3.39
+953,Multi-tiered leadingedge open architecture,8,88,1401.62,40,True,2.91
+954,Intuitive transitional framework,17,78,23491.3,332,True,4.41
+955,Team-oriented responsive Graphical User Interface,16,61,6961.88,98,True,2.63
+956,Multi-layered composite attitude,1,35,47514.88,113,True,4.95
+957,Sharable object-oriented flexibility,7,9,8936.2,488,False,4.47
+958,Assimilated incremental framework,16,89,16312.29,234,False,2.71
+959,Distributed explicit support,2,78,36793.06,194,True,2.58
+960,Reverse-engineered next generation support,19,77,26854.35,328,False,4.15
+961,Cloned 24/7 help-desk,17,14,22635.32,423,False,4.51
+962,Cloned mobile function,8,67,26939.67,376,True,2.55
+963,Optimized empowering extranet,2,25,14629.85,203,False,4.09
+964,Customizable value-added emulation,10,60,8407.68,150,True,1.22
+965,Fully-configurable 5thgeneration hardware,17,19,23232.59,330,True,3.89
+966,Face-to-face secondary algorithm,4,24,38958.68,480,False,3.19
+967,Balanced multi-state middleware,13,53,16240.7,12,True,3.36
+968,Re-engineered multi-state archive,7,59,4599.97,165,True,4.63
+969,Function-based neutral time-frame,6,92,36689.79,46,True,2.8
+970,Expanded empowering encoding,12,11,26238.48,196,True,4.9
+971,Sharable 3rdgeneration projection,20,21,18996.06,194,True,1.68
+972,Object-based foreground superstructure,11,73,43578.14,441,True,4.48
+973,Enhanced executive archive,6,99,35631.17,214,True,3.92
+974,Total modular methodology,15,37,31360.0,60,False,4.84
+975,Adaptive systematic throughput,1,80,38293.25,6,True,4.42
+976,Inverse interactive array,18,1,30438.4,252,True,3.36
+977,Upgradable motivating synergy,16,59,20566.55,40,True,1.03
+978,Pre-emptive stable standardization,18,36,31026.33,285,False,1.83
+979,Multi-layered neutral ability,6,19,2847.69,178,True,4.42
+980,Innovative motivating orchestration,19,78,14992.23,471,True,1.44
+981,Robust empowering complexity,6,21,33637.32,312,True,3.8
+982,Ergonomic 24/7 contingency,19,72,8953.22,233,True,2.44
+983,Virtual motivating solution,2,12,38448.75,165,True,2.52
+984,Multi-channeled didactic capability,3,98,21423.46,281,True,2.88
+985,Front-line exuding hub,4,89,42984.46,168,True,3.1
+986,Object-based tangible toolset,7,79,3003.41,292,True,3.52
+987,Diverse secondary projection,3,62,36231.3,309,False,4.95
+988,Centralized 3rdgeneration knowledgebase,10,55,30481.35,162,True,3.3
+989,User-friendly web-enabled conglomeration,20,46,46362.56,314,True,3.08
+990,Down-sized heuristic focus group,16,64,40418.22,452,True,3.83
+991,Seamless static time-frame,7,1,5998.54,238,True,1.47
+992,Monitored composite challenge,7,79,49949.45,211,True,2.4
+993,Polarized motivating analyzer,7,2,32066.85,353,True,4.16
+994,Expanded exuding data-warehouse,10,39,25383.81,165,True,1.46
+995,Vision-oriented dedicated workforce,11,44,19862.86,291,True,1.12
+996,Expanded even-keeled monitoring,6,25,16592.69,173,False,2.92
+997,Universal client-server framework,16,5,32318.05,246,True,2.84
+998,Cloned executive solution,18,43,23177.26,416,True,3.97
+999,Stand-alone logistical concept,17,39,28290.64,347,True,3.14
+1000,Organic coherent encryption,7,74,34306.12,409,False,4.18
+1001,Switchable dynamic middleware,3,20,14094.96,15,True,2.5
+1002,Sharable intermediate definition,18,22,28591.98,199,True,1.47
+1003,Centralized regional concept,10,91,42905.19,363,True,2.66
+1004,Mandatory attitude-oriented solution,16,31,18642.02,424,False,1.86
+1005,Intuitive demand-driven toolset,10,23,5700.34,401,True,1.81
+1006,Multi-tiered multi-tasking knowledge user,3,57,25349.14,409,True,3.0
+1007,Synergistic static projection,7,44,46189.47,375,False,2.24
+1008,Multi-channeled encompassing benchmark,11,19,38497.12,50,False,4.75
+1009,Optimized hybrid orchestration,5,27,36256.07,235,True,4.46
+1010,Organized neutral structure,4,1,15617.97,22,True,3.38
+1011,Multi-lateral analyzing concept,3,43,23397.11,23,True,4.06
+1012,Function-based uniform instruction set,10,3,28920.24,159,True,1.84
+1013,Adaptive full-range ability,7,25,14399.71,272,True,2.76
+1014,Fully-configurable bottom-line support,4,35,7551.1,140,True,4.83
+1015,Realigned intangible structure,18,66,5208.53,277,True,2.27
+1016,Profound 3rdgeneration portal,5,91,40219.74,293,True,1.28
+1017,Inverse interactive time-frame,20,44,27074.8,25,True,2.88
+1018,Front-line solution-oriented help-desk,2,14,19241.62,44,True,1.72
+1019,Seamless composite support,20,76,31510.59,353,True,3.47
+1020,Public-key bottom-line open system,10,43,40890.35,365,True,4.24
+1021,Diverse discrete Internet solution,3,97,38244.97,290,True,4.25
+1022,Enhanced 5thgeneration standardization,15,13,22833.65,350,True,4.07
+1023,Intuitive bandwidth-monitored portal,16,30,47377.67,73,False,3.47
+1024,Face-to-face demand-driven structure,12,51,9249.32,469,True,4.16
+1025,Universal attitude-oriented synergy,11,59,24426.59,33,True,2.41
+1026,Networked value-added knowledgebase,15,22,14184.64,178,True,1.51
+1027,Configurable national architecture,4,52,40895.89,407,True,3.22
+1028,Streamlined multi-tasking algorithm,3,39,26684.0,205,True,1.95
+1029,Persistent systemic implementation,8,71,8035.11,246,True,2.36
+1030,Vision-oriented scalable Internet solution,19,56,39237.27,222,True,2.37
+1031,Secured 6thgeneration parallelism,8,23,33164.35,39,True,3.85
+1032,Automated maximized moratorium,16,15,29648.94,237,True,1.39
+1033,Organic contextually-based utilization,15,23,15470.98,207,True,1.43
+1034,Multi-channeled mission-critical Graphic Interface,20,99,41011.3,167,True,3.64
+1035,Reactive optimizing product,3,28,40869.98,454,True,4.02
+1036,Visionary modular Local Area Network,1,97,7421.6,76,True,2.17
+1037,Visionary systemic function,20,74,22413.27,105,True,2.27
+1038,Multi-channeled holistic architecture,19,87,15297.05,482,False,3.87
+1039,Sharable bi-directional database,12,12,29178.08,313,False,2.62
+1040,Cross-platform homogeneous forecast,5,38,3214.29,461,True,1.21
+1041,Multi-lateral foreground benchmark,18,46,5573.95,144,False,1.94
+1042,Re-engineered 6thgeneration process improvement,19,51,31298.19,364,True,2.53
+1043,Open-architected heuristic intranet,18,28,33158.13,243,True,3.22
+1044,Multi-tiered demand-driven Graphical User Interface,12,54,7797.94,446,True,1.54
+1045,Down-sized systemic superstructure,3,83,883.82,369,False,3.63
+1046,Upgradable mission-critical implementation,5,11,6947.29,412,True,2.82
+1047,Team-oriented fault-tolerant secured line,20,55,31200.1,232,True,3.21
+1048,Self-enabling heuristic secured line,15,50,17829.83,95,True,1.03
+1049,Customer-focused zero tolerance algorithm,16,94,11913.82,256,True,4.71
+1050,Open-source background analyzer,19,47,1769.75,19,True,3.82
+1051,Digitized bottom-line solution,4,75,24128.49,353,True,3.92
+1052,Synchronized contextually-based service-desk,17,97,38965.6,238,True,3.09
+1053,Visionary client-driven leverage,20,12,12337.04,322,True,4.84
+1054,Reverse-engineered 4thgeneration infrastructure,3,88,31721.01,408,True,3.45
+1055,Monitored stable instruction set,11,69,38948.5,240,True,4.62
+1056,Pre-emptive 4thgeneration pricing structure,19,94,16642.55,180,False,4.19
+1057,Triple-buffered discrete website,10,22,1862.78,472,True,2.22
+1058,Centralized impactful definition,19,34,3164.75,242,True,3.29
+1059,Robust solution-oriented solution,10,95,31253.42,146,True,1.51
+1060,Function-based logistical project,3,36,12677.34,315,True,4.43
+1061,Optional mobile framework,1,95,5666.32,89,False,3.96
+1062,Right-sized discrete neural-net,15,48,40411.25,133,True,1.94
+1063,Future-proofed explicit infrastructure,6,68,43114.52,175,False,4.87
+1064,Multi-channeled real-time solution,20,20,41896.95,385,False,4.08
+1065,Vision-oriented solution-oriented hierarchy,8,85,22065.23,326,True,3.31
+1066,Balanced 4thgeneration hierarchy,12,7,32148.83,386,False,1.21
+1067,User-centric analyzing firmware,15,52,23863.97,243,True,4.01
+1068,Ameliorated local protocol,18,30,19052.06,361,True,2.05
+1069,Persevering exuding budgetary management,17,56,691.97,474,True,2.53
+1070,Organic upward-trending extranet,11,68,34175.53,21,True,3.13
+1071,Synchronized local projection,12,56,30563.23,333,False,2.34
+1072,Extended systemic archive,9,13,12841.66,299,True,4.09
+1073,Networked composite Graphical User Interface,8,94,33627.3,394,True,2.35
+1074,Quality-focused even-keeled protocol,6,41,27425.87,344,True,1.27
+1075,Digitized homogeneous productivity,14,13,26310.69,350,True,1.88
+1076,Face-to-face eco-centric Internet solution,10,33,9734.67,12,True,1.23
+1077,Networked content-based functionalities,20,85,44708.95,111,False,3.55
+1078,Cloned empowering Graphic Interface,4,12,42836.4,66,True,4.06
+1079,Mandatory user-facing capability,19,24,44810.48,356,True,2.18
+1080,Synchronized reciprocal array,3,82,22726.84,141,True,3.77
+1081,Open-architected non-volatile info-mediaries,11,33,8182.1,37,True,1.25
+1082,Reduced system-worthy framework,13,43,49798.33,132,False,2.06
+1083,Total solution-oriented open architecture,15,9,24636.92,475,True,2.57
+1084,Robust optimizing intranet,16,14,7279.24,393,True,3.46
+1085,Profit-focused bottom-line process improvement,4,57,35798.48,52,True,1.28
+1086,Switchable methodical extranet,9,100,22349.51,459,True,3.61
+1087,Persevering local workforce,1,5,33263.83,136,True,2.32
+1088,Devolved next generation portal,13,74,284.82,362,False,2.96
+1089,Face-to-face uniform standardization,14,52,42218.05,399,False,1.28
+1090,Switchable dynamic intranet,8,1,19282.75,352,False,2.93
+1091,Quality-focused demand-driven hierarchy,19,69,46758.61,183,True,2.21
+1092,Advanced eco-centric forecast,2,81,49851.09,331,True,3.14
+1093,Expanded neutral paradigm,11,11,42074.96,389,True,3.59
+1094,Managed fault-tolerant neural-net,6,71,2062.63,196,True,2.2
+1095,Cross-group client-server array,13,14,31567.79,183,True,4.54
+1096,Focused 24hour complexity,15,95,9554.28,18,True,3.88
+1097,Mandatory grid-enabled Local Area Network,19,31,24512.7,32,True,3.57
+1098,Streamlined fault-tolerant portal,16,69,48251.2,415,True,4.98
+1099,Multi-lateral radical capacity,2,44,2897.12,403,True,2.62
+1100,Virtual bifurcated service-desk,7,84,33399.09,234,False,4.48
+1101,Proactive incremental hardware,18,20,37078.47,119,False,1.15
+1102,Ameliorated 5thgeneration Internet solution,5,63,32726.19,241,False,3.47
+1103,Re-engineered bottom-line focus group,8,90,32474.44,7,True,1.2
+1104,Vision-oriented interactive infrastructure,10,13,22863.61,87,False,1.26
+1105,Programmable 24hour productivity,4,15,24907.46,409,True,1.25
+1106,Distributed empowering product,7,55,16933.42,427,False,3.71
+1107,Organized analyzing Internet solution,11,16,48795.08,294,True,2.29
+1108,Expanded 4thgeneration portal,7,98,2374.77,88,True,1.48
+1109,Extended client-server throughput,5,97,20816.2,356,True,1.66
+1110,Integrated cohesive infrastructure,8,75,2130.87,51,True,3.53
+1111,Digitized composite circuit,13,100,7971.91,450,True,1.03
+1112,Quality-focused clear-thinking approach,6,12,35366.39,303,False,2.66
+1113,Realigned full-range intranet,16,89,6431.93,73,True,3.09
+1114,Profit-focused directional projection,14,31,46910.67,312,True,3.39
+1115,Secured fresh-thinking solution,16,79,47519.87,321,False,2.2
+1116,Self-enabling full-range framework,14,1,27929.75,98,True,3.12
+1117,Cross-group responsive definition,4,80,18158.88,389,False,3.03
+1118,Customizable fault-tolerant attitude,15,99,31360.57,106,True,1.77
+1119,Multi-channeled content-based standardization,5,88,42204.71,466,True,1.71
+1120,Adaptive contextually-based focus group,2,7,32278.56,145,True,2.01
+1121,Progressive 3rdgeneration website,20,98,22712.07,53,True,4.7
+1122,Synchronized asymmetric framework,6,21,39296.05,248,True,1.28
+1123,Face-to-face impactful adapter,8,93,22296.56,296,True,1.8
+1124,Persistent coherent firmware,11,30,38970.87,166,True,1.95
+1125,Integrated uniform monitoring,14,26,18839.07,112,True,3.34
+1126,Mandatory background emulation,2,56,7332.57,475,True,1.71
+1127,Proactive systematic groupware,12,18,22941.24,99,True,4.9
+1128,De-engineered reciprocal standardization,7,43,6447.87,354,True,2.12
+1129,Multi-channeled heuristic concept,4,60,22983.09,87,True,1.88
+1130,Synchronized multi-state data-warehouse,10,78,7923.73,406,True,3.45
+1131,Monitored scalable installation,6,74,48509.78,437,True,2.65
+1132,Distributed static migration,17,63,43123.73,110,True,4.35
+1133,Distributed explicit Internet solution,9,2,36527.89,376,False,1.99
+1134,Proactive even-keeled archive,14,75,11198.09,474,True,1.6
+1135,Fully-configurable tangible policy,19,1,20946.82,22,True,2.88
+1136,Sharable needs-based initiative,17,5,21342.31,201,True,4.19
+1137,Up-sized needs-based matrices,4,58,24814.72,42,True,1.05
+1138,Cross-group systematic policy,14,28,6722.33,151,True,5.0
+1139,Virtual content-based superstructure,1,62,33484.88,82,True,4.43
+1140,Automated mission-critical productivity,19,4,48823.4,237,True,4.5
+1141,User-friendly regional archive,13,24,39513.95,189,True,3.82
+1142,Visionary well-modulated info-mediaries,1,81,3627.86,457,True,3.12
+1143,Face-to-face disintermediate capability,10,55,37669.11,357,False,3.17
+1144,Compatible eco-centric product,7,88,4139.86,450,True,4.73
+1145,Reduced stable hardware,17,87,18263.13,26,True,2.46
+1146,Multi-lateral tangible analyzer,20,6,18342.0,89,True,3.82
+1147,Vision-oriented incremental throughput,18,91,38701.42,70,False,1.95
+1148,Distributed real-time circuit,4,84,23976.82,480,True,4.48
+1149,Cloned full-range knowledge user,7,97,37276.33,115,True,4.59
+1150,Compatible local pricing structure,17,88,21204.16,27,True,2.38
+1151,Sharable stable throughput,16,65,26381.46,62,True,3.13
+1152,Total fresh-thinking collaboration,18,38,22653.72,188,True,4.78
+1153,Monitored bifurcated concept,3,25,44605.97,234,True,2.56
+1154,Object-based solution-oriented infrastructure,6,37,47917.0,39,True,2.1
+1155,Intuitive transitional definition,5,64,7609.85,104,True,3.51
+1156,Face-to-face transitional circuit,10,54,48481.77,277,False,2.9
+1157,Profound next generation collaboration,14,57,36911.69,10,True,1.25
+1158,Realigned object-oriented standardization,8,67,32269.13,210,True,3.62
+1159,Stand-alone bandwidth-monitored matrix,11,63,29708.53,356,True,3.19
+1160,Implemented radical interface,15,39,28405.86,459,True,1.69
+1161,Integrated 3rdgeneration attitude,9,30,24263.73,497,True,4.38
+1162,Configurable regional Internet solution,5,46,14290.66,489,True,4.7
+1163,Switchable full-range time-frame,18,37,9195.8,89,False,3.77
+1164,Grass-roots static focus group,5,21,11971.48,21,False,3.3
+1165,Reactive executive support,15,34,18546.64,105,True,1.14
+1166,Compatible value-added projection,11,45,7482.42,229,True,1.65
+1167,Mandatory tangible intranet,10,16,46029.66,207,False,4.07
+1168,Implemented systemic knowledge user,15,41,7887.06,496,True,4.9
+1169,Compatible incremental standardization,11,83,35302.02,242,False,4.88
+1170,Intuitive incremental artificial intelligence,19,86,7439.47,289,True,4.69
+1171,Switchable non-volatile instruction set,11,89,5704.55,245,False,1.56
+1172,Sharable 6thgeneration infrastructure,18,15,15473.3,205,True,1.88
+1173,Grass-roots zero administration flexibility,12,12,16385.69,311,True,3.33
+1174,Persevering system-worthy software,8,99,13968.57,11,True,4.4
+1175,Persistent executive moderator,3,66,19781.74,251,True,3.42
+1176,Open-source executive utilization,2,86,18117.14,75,True,2.71
+1177,Enterprise-wide object-oriented hub,13,48,708.32,176,True,4.91
+1178,Triple-buffered impactful success,18,12,10863.19,454,True,4.97
+1179,Monitored grid-enabled portal,15,37,8273.14,372,False,2.7
+1180,Configurable incremental database,14,18,41792.03,306,True,1.83
+1181,Fundamental contextually-based implementation,16,68,49333.25,33,False,3.36
+1182,Assimilated value-added budgetary management,13,12,430.28,327,False,2.66
+1183,Open-source bifurcated analyzer,18,60,35541.33,386,False,1.8
+1184,Versatile high-level portal,13,38,27737.96,21,False,2.21
+1185,Intuitive methodical leverage,19,39,24755.61,378,True,1.11
+1186,Synchronized contextually-based hierarchy,1,20,13207.58,489,True,3.55
+1187,Automated fault-tolerant knowledgebase,4,84,33329.08,147,True,2.97
+1188,Enhanced content-based complexity,8,4,6055.8,141,True,4.88
+1189,Synchronized optimal alliance,20,96,18151.8,246,True,4.47
+1190,Public-key local frame,16,89,40932.21,191,True,3.3
+1191,Adaptive intangible middleware,9,21,29124.56,74,True,4.51
+1192,Stand-alone global implementation,5,46,8249.11,139,True,3.54
+1193,Focused multi-state utilization,12,7,14563.82,271,True,1.31
+1194,Proactive background intranet,7,99,31438.69,391,True,4.01
+1195,Managed clear-thinking monitoring,18,42,43634.91,423,False,4.2
+1196,Cloned coherent interface,9,88,34928.58,185,True,3.32
+1197,Ameliorated human-resource knowledgebase,5,2,6933.78,144,True,2.94
+1198,Adaptive client-server migration,11,21,5210.65,79,True,4.33
+1199,Down-sized background concept,18,79,34513.68,487,True,3.13
+1200,Vision-oriented user-facing hardware,18,90,37839.71,58,True,4.66
+1201,Operative maximized framework,4,17,46178.15,245,True,3.76
+1202,Face-to-face bandwidth-monitored core,5,57,44497.35,305,True,4.88
+1203,Synergistic web-enabled monitoring,6,91,15303.74,381,False,1.89
+1204,Fundamental scalable flexibility,5,89,11406.06,64,True,4.92
+1205,Cloned methodical customer loyalty,14,89,38174.88,57,True,4.1
+1206,Switchable upward-trending open architecture,14,6,9897.91,16,True,3.05
+1207,Organized content-based paradigm,2,61,6034.22,129,True,2.21
+1208,Sharable analyzing policy,1,97,4915.53,63,False,1.82
+1209,Adaptive bandwidth-monitored moratorium,7,24,33562.97,14,True,4.38
+1210,Triple-buffered next generation algorithm,9,75,17457.04,82,False,4.12
+1211,Enterprise-wide tangible interface,20,31,25294.97,34,True,3.31
+1212,Assimilated clear-thinking productivity,1,68,10928.2,98,False,1.69
+1213,Persevering global archive,18,1,48681.64,50,False,4.68
+1214,Inverse clear-thinking archive,16,47,34936.83,94,True,4.83
+1215,Extended context-sensitive focus group,6,46,49066.93,217,True,1.91
+1216,Assimilated homogeneous firmware,4,98,49232.18,63,True,3.08
+1217,Visionary high-level framework,16,98,18126.4,147,True,1.16
+1218,Exclusive bandwidth-monitored support,11,64,5874.56,145,True,3.94
+1219,Synchronized dynamic frame,15,29,27740.4,148,False,2.71
+1220,Secured optimal model,3,61,46960.19,188,True,4.99
+1221,Visionary zero-defect customer loyalty,16,87,5348.08,224,True,3.71
+1222,Enterprise-wide background emulation,4,19,19801.09,355,True,1.41
+1223,Vision-oriented intangible emulation,6,9,18249.13,101,True,3.38
+1224,Secured directional open architecture,13,16,11720.19,217,True,2.11
+1225,Object-based well-modulated paradigm,19,76,13721.34,404,False,4.77
+1226,Business-focused impactful Internet solution,12,61,33367.18,486,True,2.94
+1227,Horizontal full-range throughput,9,19,38423.18,55,True,2.96
+1228,Triple-buffered demand-driven open architecture,8,81,47125.91,15,True,1.21
+1229,Advanced holistic benchmark,3,64,33937.56,497,True,3.42
+1230,Configurable modular protocol,11,20,15207.36,319,True,1.31
+1231,Organic human-resource open architecture,17,99,24660.16,238,True,3.65
+1232,Intuitive bottom-line product,16,65,13157.1,175,False,3.16
+1233,Ergonomic actuating algorithm,1,98,1676.77,220,False,1.48
+1234,Reactive dedicated benchmark,15,41,42658.43,226,True,1.13
+1235,Monitored homogeneous Internet solution,18,85,43032.0,155,False,1.66
+1236,Customer-focused disintermediate strategy,14,18,15691.74,199,True,1.44
+1237,Business-focused exuding function,16,85,27733.82,276,True,2.9
+1238,User-friendly logistical Graphic Interface,6,65,2881.28,134,True,4.88
+1239,Public-key 24hour model,20,87,17702.91,500,True,1.25
+1240,Synergistic motivating hardware,19,6,6497.08,187,True,3.97
+1241,Exclusive secondary algorithm,1,98,44578.01,174,True,2.71
+1242,Networked regional policy,12,53,17628.34,338,True,1.94
+1243,Assimilated didactic success,10,76,4338.59,352,True,2.22
+1244,Ameliorated maximized project,11,22,1083.63,166,True,3.63
+1245,Distributed 6thgeneration utilization,14,73,25786.52,215,True,3.78
+1246,De-engineered explicit complexity,19,3,49289.66,193,True,2.29
+1247,Operative non-volatile capability,4,63,5092.83,345,True,2.99
+1248,User-friendly even-keeled approach,11,22,30779.91,186,False,1.81
+1249,Re-engineered 4thgeneration info-mediaries,3,69,10782.6,135,True,4.98
+1250,Customer-focused full-range customer loyalty,13,29,31266.16,490,True,4.38
+1251,Phased explicit paradigm,4,76,16908.22,34,True,3.12
+1252,Advanced fresh-thinking protocol,14,27,17431.09,39,True,2.21
+1253,Re-contextualized multimedia middleware,10,56,33206.49,160,True,2.61
+1254,Diverse tangible budgetary management,20,66,22716.11,390,True,4.52
+1255,Multi-layered directional Graphical User Interface,17,24,28884.48,109,True,4.3
+1256,Organic coherent groupware,15,35,46864.43,272,False,4.41
+1257,Reduced bifurcated product,14,73,36358.09,30,True,2.46
+1258,Managed well-modulated leverage,5,31,7608.59,350,True,4.38
+1259,Open-source value-added Internet solution,14,41,43023.28,466,True,1.81
+1260,Multi-channeled web-enabled throughput,14,35,41203.16,330,True,3.75
+1261,Open-architected zero administration pricing structure,8,52,12000.32,76,True,1.98
+1262,Pre-emptive discrete service-desk,10,60,24320.58,223,True,4.62
+1263,Enterprise-wide zero administration circuit,7,21,13708.33,14,True,4.21
+1264,Cross-platform object-oriented data-warehouse,18,23,32250.26,21,False,2.94
+1265,Diverse zero tolerance secured line,1,8,42993.24,42,True,2.19
+1266,Multi-channeled real-time success,3,53,44848.98,343,True,1.36
+1267,Diverse 24/7 synergy,5,31,5685.42,376,True,1.48
+1268,Synchronized incremental open architecture,19,100,46584.63,128,True,1.36
+1269,Reverse-engineered well-modulated focus group,20,16,38682.23,160,True,3.34
+1270,Universal eco-centric workforce,13,96,37223.55,478,True,1.58
+1271,Proactive transitional intranet,6,28,48499.18,225,True,4.45
+1272,Open-architected non-volatile help-desk,2,63,26720.15,358,False,2.27
+1273,Adaptive zero-defect Internet solution,14,61,34168.65,493,True,4.14
+1274,User-centric multi-state paradigm,5,47,23813.57,188,False,1.08
+1275,Mandatory reciprocal Graphical User Interface,20,5,42089.5,339,True,1.22
+1276,Stand-alone system-worthy concept,8,33,27681.12,158,True,3.8
+1277,Visionary solution-oriented standardization,4,69,43360.95,439,True,1.03
+1278,Virtual scalable instruction set,13,33,15114.32,479,False,1.94
+1279,Function-based intangible orchestration,7,21,45802.95,323,True,4.25
+1280,Distributed zero administration Graphic Interface,14,5,13774.42,41,False,4.76
+1281,Horizontal zero tolerance process improvement,16,95,20706.77,430,True,2.69
+1282,Fundamental cohesive emulation,4,21,34954.26,259,True,2.68
+1283,Self-enabling foreground moderator,18,95,16405.74,355,True,1.21
+1284,Distributed well-modulated groupware,6,81,22225.91,328,True,2.6
+1285,Secured background data-warehouse,10,41,28832.89,56,True,3.07
+1286,Customizable scalable workforce,5,77,34319.09,405,False,2.81
+1287,Centralized object-oriented software,5,34,8756.6,303,False,4.2
+1288,Monitored secondary matrices,7,11,20783.37,93,True,2.51
+1289,Open-source coherent paradigm,19,29,1134.66,11,False,3.59
+1290,Customer-focused 24hour budgetary management,8,12,48708.97,101,True,4.41
+1291,Robust discrete budgetary management,2,52,30938.4,307,True,1.36
+1292,Cross-group multi-tasking Graphical User Interface,12,22,47367.45,60,True,3.1
+1293,Customer-focused homogeneous budgetary management,15,87,24758.04,114,True,1.76
+1294,Open-source global complexity,9,37,37347.51,195,True,4.43
+1295,Sharable secondary archive,20,28,49760.85,144,True,1.76
+1296,Exclusive foreground algorithm,6,53,39643.93,14,True,2.05
+1297,Fundamental object-oriented knowledgebase,20,58,45375.68,189,True,3.59
+1298,Business-focused even-keeled encryption,3,2,23497.19,446,True,3.77
+1299,Phased dynamic open architecture,7,92,19236.42,216,True,2.02
+1300,Organized responsive leverage,4,72,3031.74,170,False,2.88
+1301,Progressive regional leverage,12,78,46972.16,495,False,3.84
+1302,Visionary interactive time-frame,2,1,12757.48,317,True,4.91
+1303,Streamlined multimedia groupware,12,17,48406.08,286,True,1.72
+1304,Persistent composite moderator,6,65,24692.71,173,False,1.53
+1305,De-engineered client-driven website,11,91,26568.15,72,True,2.25
+1306,Future-proofed actuating initiative,5,64,43596.81,427,True,2.44
+1307,Sharable explicit process improvement,14,37,45149.35,134,True,4.05
+1308,Open-source cohesive success,9,67,15719.21,457,True,3.95
+1309,Distributed didactic groupware,16,98,47507.53,284,False,3.63
+1310,Assimilated cohesive moratorium,15,7,9527.11,27,True,1.14
+1311,Decentralized holistic analyzer,9,21,35327.55,223,True,4.58
+1312,Open-architected object-oriented website,16,6,22131.83,363,True,2.83
+1313,Enterprise-wide global help-desk,4,93,43357.28,63,True,1.81
+1314,Optimized regional challenge,10,24,41764.19,383,True,2.09
+1315,Horizontal zero administration installation,19,28,29219.01,497,True,4.07
+1316,Centralized zero tolerance forecast,6,54,46028.62,126,True,3.71
+1317,De-engineered multimedia software,11,4,14285.63,348,True,2.49
+1318,Vision-oriented bi-directional leverage,4,42,7773.4,41,True,3.83
+1319,Focused intangible Graphical User Interface,16,59,31455.0,137,True,1.02
+1320,Phased stable installation,2,84,31156.01,231,True,3.93
+1321,Intuitive tangible framework,19,17,10647.21,24,False,2.13
+1322,Profound reciprocal orchestration,2,96,3629.13,487,True,1.37
+1323,Open-architected discrete access,9,23,12080.0,394,False,1.36
+1324,Decentralized client-driven middleware,7,21,19486.29,206,True,4.01
+1325,Distributed dedicated middleware,5,16,14997.48,410,True,4.23
+1326,De-engineered intangible function,10,88,30215.33,183,True,4.33
+1327,Devolved impactful workforce,17,26,24532.19,453,True,2.07
+1328,Total uniform implementation,20,55,4602.1,216,False,3.46
+1329,Ameliorated regional artificial intelligence,14,81,21358.25,20,True,4.89
+1330,Phased dedicated circuit,8,83,34343.2,79,False,3.11
+1331,Robust web-enabled time-frame,17,11,14606.08,223,True,4.21
+1332,Face-to-face web-enabled synergy,10,20,49210.89,350,False,4.37
+1333,Cloned encompassing approach,17,55,14844.53,24,True,4.67
+1334,Inverse client-server challenge,17,14,25581.51,211,True,3.64
+1335,Optimized stable concept,19,33,17837.34,299,True,3.01
+1336,Future-proofed contextually-based definition,4,95,33112.76,91,True,4.37
+1337,Adaptive zero-defect collaboration,2,11,20870.95,360,True,3.35
+1338,Mandatory clear-thinking access,15,97,33545.97,319,False,2.37
+1339,Triple-buffered full-range structure,6,28,9335.86,382,False,2.04
+1340,Synergistic demand-driven Graphic Interface,4,56,26765.36,2,True,1.05
+1341,Distributed leadingedge concept,16,59,34621.13,444,True,3.98
+1342,Adaptive modular orchestration,16,39,30963.12,498,True,3.76
+1343,Reverse-engineered explicit core,13,39,4472.99,69,True,1.45
+1344,Down-sized systemic attitude,1,90,48528.97,439,True,2.92
+1345,Ameliorated systematic standardization,5,84,12164.83,431,True,4.16
+1346,Integrated empowering superstructure,7,12,15115.8,237,True,2.69
+1347,Proactive tangible capacity,4,22,45130.53,378,True,4.86
+1348,Reactive grid-enabled emulation,16,3,43003.84,299,True,2.18
+1349,Re-contextualized zero administration utilization,13,7,16759.12,52,True,3.85
+1350,Digitized well-modulated monitoring,14,64,36880.21,305,True,5.0
+1351,Face-to-face asymmetric application,2,63,20044.05,262,True,3.45
+1352,Triple-buffered heuristic process improvement,16,30,35743.09,270,True,3.31
+1353,Organized leadingedge utilization,18,9,13465.66,331,True,2.89
+1354,Vision-oriented maximized budgetary management,16,80,46954.33,177,True,2.74
+1355,Proactive content-based product,6,37,36337.84,240,True,1.93
+1356,Reduced analyzing implementation,8,76,45462.6,173,False,4.41
+1357,Diverse object-oriented budgetary management,15,17,44170.35,370,True,4.84
+1358,Future-proofed context-sensitive matrices,12,61,40007.78,432,True,1.83
+1359,Operative foreground hub,3,86,24196.2,88,True,3.42
+1360,Right-sized well-modulated model,4,54,47158.43,252,True,1.84
+1361,User-friendly multimedia throughput,2,3,18003.46,133,True,1.63
+1362,User-centric upward-trending pricing structure,17,5,40360.1,172,True,3.47
+1363,Pre-emptive demand-driven Internet solution,4,72,11282.37,132,False,4.14
+1364,Horizontal context-sensitive hub,2,99,43897.91,136,False,4.41
+1365,Synchronized asynchronous paradigm,17,78,33507.35,361,True,4.79
+1366,Centralized stable benchmark,15,97,5635.45,54,True,3.44
+1367,Innovative actuating strategy,4,72,2194.27,53,True,1.47
+1368,Vision-oriented analyzing algorithm,7,47,7935.92,149,True,4.05
+1369,Reverse-engineered executive protocol,16,94,43537.59,78,True,2.34
+1370,Compatible intermediate contingency,5,16,42444.9,224,False,4.08
+1371,Seamless 4thgeneration model,1,32,41757.19,242,True,3.02
+1372,Down-sized systemic database,3,35,18684.57,386,True,3.52
+1373,Sharable next generation protocol,8,20,37684.99,271,True,1.91
+1374,Integrated web-enabled challenge,14,53,45909.2,459,True,4.41
+1375,Team-oriented high-level interface,12,4,22184.68,394,True,4.22
+1376,Universal tangible moratorium,3,11,16981.35,205,False,1.66
+1377,Configurable well-modulated portal,2,51,37983.7,338,False,1.6
+1378,Monitored dedicated Graphic Interface,19,8,48888.88,365,True,4.5
+1379,De-engineered dedicated time-frame,10,54,20159.94,348,True,4.49
+1380,Cloned real-time customer loyalty,11,45,494.32,143,False,3.44
+1381,Centralized neutral paradigm,5,90,20256.51,329,True,3.18
+1382,Realigned zero-defect initiative,20,84,22162.98,176,False,4.13
+1383,Synergized global system engine,13,100,9945.06,154,True,3.15
+1384,De-engineered full-range architecture,13,93,35972.14,450,True,4.97
+1385,Enterprise-wide uniform website,10,28,4731.7,282,True,2.36
+1386,Balanced fresh-thinking Graphical User Interface,6,3,1491.77,407,True,2.03
+1387,Triple-buffered interactive pricing structure,10,93,21195.02,258,True,1.24
+1388,Re-contextualized secondary extranet,12,34,31386.78,181,True,4.03
+1389,Diverse needs-based pricing structure,4,58,14968.26,377,True,2.36
+1390,Re-engineered eco-centric model,8,96,49451.1,289,True,4.75
+1391,Mandatory holistic open architecture,18,77,11768.51,153,True,4.14
+1392,Public-key motivating architecture,19,87,7084.58,193,True,1.99
+1393,Networked maximized ability,11,67,29160.22,421,True,2.82
+1394,Horizontal encompassing benchmark,5,92,21342.04,210,True,1.25
+1395,Enhanced multi-tasking instruction set,5,61,10817.74,39,True,3.11
+1396,Synergized modular initiative,19,72,25995.36,202,False,3.34
+1397,Configurable holistic support,14,57,34481.99,485,True,4.89
+1398,Reactive disintermediate product,6,19,25338.72,248,True,1.52
+1399,Innovative system-worthy utilization,17,68,5991.1,108,True,1.13
+1400,Realigned asymmetric challenge,6,72,18529.67,487,True,4.41
+1401,Object-based neutral groupware,4,16,18542.34,148,True,1.61
+1402,Sharable zero administration extranet,12,40,49551.9,155,True,1.11
+1403,Right-sized zero tolerance product,5,19,39211.25,215,True,4.58
+1404,Enhanced reciprocal success,10,28,9235.55,378,True,1.49
+1405,Polarized user-facing contingency,12,9,43534.28,213,True,2.24
+1406,Synergized multi-state paradigm,15,44,39089.33,243,False,4.33
+1407,Enterprise-wide mission-critical matrix,5,98,7012.26,325,True,2.8
+1408,Seamless clear-thinking hardware,15,20,43330.64,166,True,3.5
+1409,Assimilated analyzing core,20,53,19423.03,460,True,3.16
+1410,Cross-group directional hub,15,95,13941.02,45,False,3.83
+1411,Digitized motivating portal,19,81,39828.32,362,True,3.58
+1412,Multi-lateral contextually-based core,18,11,9702.09,316,True,4.03
+1413,Upgradable non-volatile encryption,19,67,9550.85,243,True,1.07
+1414,Proactive fault-tolerant knowledgebase,18,24,48122.6,140,True,1.98
+1415,Re-engineered cohesive alliance,19,57,4323.93,273,True,2.61
+1416,Operative attitude-oriented product,2,63,43112.52,11,True,1.72
+1417,Ergonomic zero tolerance groupware,1,68,15937.38,131,True,4.92
+1418,Business-focused grid-enabled Local Area Network,18,22,14339.05,93,True,1.36
+1419,Distributed exuding core,10,53,33962.57,30,True,2.3
+1420,Function-based contextually-based workforce,1,92,3019.24,199,True,1.57
+1421,Seamless bifurcated flexibility,11,34,18838.11,423,False,1.21
+1422,Distributed methodical middleware,8,97,29890.53,121,True,4.01
+1423,Innovative leadingedge challenge,13,15,13537.45,162,True,2.63
+1424,Networked reciprocal algorithm,16,4,20433.94,119,False,1.07
+1425,Progressive secondary challenge,18,76,33787.36,126,True,3.61
+1426,Phased neutral Graphic Interface,5,39,28455.46,228,True,3.54
+1427,Streamlined real-time Local Area Network,7,19,18727.93,86,True,3.15
+1428,Visionary intermediate flexibility,14,72,22641.93,0,False,4.84
+1429,Multi-layered tertiary implementation,20,38,32687.64,85,True,4.73
+1430,Networked composite leverage,16,35,29933.6,429,True,5.0
+1431,Team-oriented stable website,7,75,42050.14,144,True,3.96
+1432,Organic high-level help-desk,19,9,15101.85,202,True,4.32
+1433,Fully-configurable secondary product,18,36,43926.14,107,True,4.83
+1434,Advanced secondary leverage,11,88,47275.88,325,True,4.01
+1435,Intuitive grid-enabled strategy,15,35,12371.82,164,True,2.84
+1436,Implemented background groupware,20,43,892.14,354,True,4.69
+1437,Realigned human-resource contingency,20,61,313.53,4,True,2.65
+1438,Configurable 24hour concept,16,98,19700.27,41,True,3.6
+1439,Synergistic bandwidth-monitored knowledgebase,3,69,1644.28,426,False,2.78
+1440,Realigned interactive challenge,4,46,48604.75,192,False,2.43
+1441,Mandatory tangible project,6,99,40612.3,4,True,2.48
+1442,Synchronized grid-enabled archive,7,57,567.23,380,True,2.12
+1443,Upgradable holistic instruction set,12,25,4589.33,314,True,4.23
+1444,Front-line upward-trending interface,8,30,49007.94,495,True,2.12
+1445,Extended impactful software,20,27,456.06,420,True,1.44
+1446,Synergized even-keeled contingency,9,73,25066.25,87,True,3.64
+1447,Adaptive scalable infrastructure,19,87,34150.94,289,True,3.35
+1448,Re-engineered incremental benchmark,3,17,13055.26,291,False,4.52
+1449,Re-engineered cohesive intranet,9,25,42398.59,11,False,3.77
+1450,Re-engineered holistic Internet solution,18,79,12720.76,286,False,1.01
+1451,Devolved systemic frame,14,83,33687.68,332,True,4.76
+1452,Automated local task-force,14,53,13774.38,348,True,2.98
+1453,Monitored 6thgeneration Graphical User Interface,17,98,2268.89,369,True,2.11
+1454,Front-line actuating hub,14,69,22498.19,2,True,2.34
+1455,Profound global utilization,19,4,49514.21,115,False,2.7
+1456,Realigned heuristic challenge,3,32,9924.15,168,True,3.5
+1457,Sharable leadingedge emulation,4,4,24050.32,413,True,4.19
+1458,Universal cohesive budgetary management,11,33,12432.96,242,True,2.36
+1459,Pre-emptive composite instruction set,2,43,26031.78,121,False,4.1
+1460,Right-sized asynchronous customer loyalty,20,57,38228.52,320,True,1.5
+1461,Synergistic asymmetric secured line,2,5,18932.02,455,False,1.26
+1462,Exclusive actuating alliance,5,8,45963.88,226,True,3.44
+1463,Reactive fault-tolerant functionalities,14,9,5181.2,28,True,2.18
+1464,Fully-configurable 6thgeneration support,13,52,4881.93,385,True,4.46
+1465,Customizable analyzing project,20,2,22725.22,237,True,4.52
+1466,Grass-roots bi-directional complexity,20,13,17046.86,480,True,1.1
+1467,Organized bi-directional framework,17,43,29431.89,55,True,3.38
+1468,Diverse incremental flexibility,3,76,39491.88,99,False,1.5
+1469,Sharable neutral infrastructure,17,33,17834.02,246,True,2.78
+1470,Universal system-worthy policy,8,18,39871.58,30,True,3.34
+1471,Polarized uniform info-mediaries,17,84,37743.24,159,True,3.16
+1472,Operative composite Internet solution,5,19,23529.24,308,True,2.48
+1473,Seamless 4thgeneration adapter,1,67,29363.35,347,True,1.95
+1474,Customizable zero-defect conglomeration,18,7,21160.85,100,False,3.56
+1475,Multi-lateral neutral workforce,7,9,17143.44,341,True,3.77
+1476,Upgradable client-server solution,15,77,34651.45,436,True,4.85
+1477,Reverse-engineered 24hour function,20,39,20992.89,83,True,4.5
+1478,Phased real-time interface,2,64,11048.35,1,True,3.77
+1479,Implemented clear-thinking interface,15,80,10735.61,246,True,4.81
+1480,Multi-lateral multi-tasking infrastructure,11,95,18858.0,204,True,4.96
+1481,Multi-channeled intermediate projection,12,2,3779.18,15,True,1.57
+1482,Phased global algorithm,15,25,31603.6,467,True,1.18
+1483,Stand-alone even-keeled definition,1,26,9971.47,89,True,2.05
+1484,Digitized needs-based open architecture,6,44,42391.96,125,True,1.09
+1485,Cloned bandwidth-monitored structure,9,13,1147.59,346,True,3.62
+1486,Horizontal empowering knowledgebase,4,44,46812.09,156,True,2.48
+1487,Face-to-face client-server protocol,12,85,8650.85,269,False,4.99
+1488,Optimized analyzing project,14,92,3362.34,73,False,1.52
+1489,Automated empowering implementation,7,25,26674.48,355,True,3.4
+1490,Fundamental local intranet,8,6,38177.81,300,True,3.14
+1491,Vision-oriented scalable array,5,42,12433.87,322,True,4.49
+1492,Profit-focused reciprocal structure,17,75,44303.13,107,True,4.14
+1493,Profit-focused 5thgeneration methodology,20,9,8454.93,198,True,3.58
+1494,Multi-channeled tertiary frame,17,48,24979.53,237,True,3.85
+1495,Decentralized zero administration policy,17,89,24216.52,489,True,2.07
+1496,Expanded systematic success,13,82,46067.14,298,True,1.83
+1497,Fundamental didactic infrastructure,7,58,43172.1,202,True,2.7
+1498,Exclusive human-resource toolset,13,74,7944.75,431,True,3.2
+1499,Synergistic asymmetric function,5,97,4293.0,227,True,1.92
+1500,Upgradable optimizing Graphical User Interface,2,60,25661.88,172,True,2.87
+1501,Networked multi-tasking support,14,48,40244.77,162,True,1.1
+1502,Optional next generation data-warehouse,15,30,13354.68,38,True,1.33
+1503,Focused directional firmware,17,66,27377.93,40,True,4.71
+1504,Vision-oriented bifurcated definition,4,16,3660.3,19,True,2.34
+1505,Inverse secondary neural-net,11,33,15205.51,417,True,4.38
+1506,Customizable tangible portal,7,91,30241.3,70,False,4.01
+1507,Inverse national groupware,18,34,525.84,153,True,2.39
+1508,Implemented local parallelism,13,52,41110.88,387,True,2.89
+1509,Team-oriented bi-directional implementation,17,98,47579.29,443,True,1.91
+1510,Stand-alone clear-thinking software,7,61,11762.79,300,True,4.03
+1511,Expanded heuristic success,15,44,39616.55,160,False,2.72
+1512,Pre-emptive didactic budgetary management,14,27,21990.17,436,True,2.5
+1513,Re-engineered well-modulated attitude,19,17,15348.04,377,True,4.24
+1514,Horizontal object-oriented service-desk,12,44,11351.98,217,True,2.61
+1515,Implemented web-enabled encoding,18,39,16371.37,11,True,1.13
+1516,Centralized content-based focus group,5,20,48864.44,169,True,4.2
+1517,Networked didactic matrix,20,74,43360.54,195,True,2.56
+1518,Synergistic dynamic Graphical User Interface,18,50,9498.1,55,True,4.85
+1519,Down-sized zero-defect hub,10,12,8654.04,345,True,1.13
+1520,Mandatory analyzing workforce,20,63,1439.24,101,True,4.85
+1521,Cloned well-modulated capacity,10,27,11728.67,337,True,2.82
+1522,Reverse-engineered leadingedge flexibility,12,67,651.25,167,False,2.64
+1523,Multi-tiered neutral strategy,6,15,6543.97,214,True,1.28
+1524,Open-architected scalable project,7,17,43535.41,158,True,3.84
+1525,Upgradable systemic algorithm,16,21,30225.1,480,True,1.81
+1526,Multi-layered secondary solution,15,36,10164.97,73,True,4.3
+1527,Future-proofed intangible standardization,20,32,26340.24,466,True,2.96
+1528,Fundamental explicit encryption,15,74,2050.33,46,True,4.52
+1529,Seamless high-level initiative,15,45,35045.8,364,True,2.56
+1530,Implemented regional open system,6,54,12531.83,460,True,2.73
+1531,Integrated encompassing artificial intelligence,13,85,9253.87,291,True,3.79
+1532,Synergistic bandwidth-monitored hub,2,31,44288.54,80,True,3.51
+1533,De-engineered motivating product,10,86,45823.19,357,True,4.61
+1534,Stand-alone 24/7 solution,16,53,49620.25,283,True,2.47
+1535,Robust fresh-thinking website,4,65,38350.3,166,True,1.66
+1536,Front-line high-level data-warehouse,7,65,2327.29,13,True,3.78
+1537,Quality-focused contextually-based secured line,15,49,17248.52,204,False,2.59
+1538,Object-based next generation matrix,1,33,5822.67,469,True,3.68
+1539,Object-based solution-oriented knowledgebase,15,63,23121.71,42,True,1.97
+1540,Visionary even-keeled budgetary management,15,18,23592.31,142,False,1.68
+1541,Re-contextualized object-oriented initiative,1,78,5115.7,150,True,3.97
+1542,Stand-alone attitude-oriented collaboration,6,10,33602.47,5,True,1.61
+1543,Public-key grid-enabled matrices,12,23,10911.95,17,False,3.13
+1544,Synergistic bifurcated encoding,15,90,2483.03,325,False,3.56
+1545,Sharable multi-tasking artificial intelligence,4,50,34548.3,227,True,1.02
+1546,Switchable empowering firmware,13,99,10166.73,127,True,1.95
+1547,Distributed 24hour leverage,3,3,21141.97,7,True,1.77
+1548,Visionary coherent budgetary management,3,29,47941.39,49,True,4.32
+1549,Configurable intermediate utilization,6,93,8435.66,212,True,4.26
+1550,Adaptive stable functionalities,11,72,31376.64,319,True,3.17
+1551,Reverse-engineered fresh-thinking forecast,14,16,11697.17,54,True,1.69
+1552,Compatible scalable open system,13,84,15880.39,199,True,1.88
+1553,Horizontal foreground Graphic Interface,9,84,31233.08,22,True,1.87
+1554,Open-architected bandwidth-monitored neural-net,10,99,29983.57,52,True,4.17
+1555,Public-key user-facing synergy,19,22,12671.81,48,True,4.93
+1556,Reactive methodical customer loyalty,13,87,46235.21,394,True,2.33
+1557,Face-to-face dynamic extranet,11,86,24158.31,171,True,4.65
+1558,Networked client-server function,15,49,25600.2,379,True,3.35
+1559,Balanced real-time projection,1,30,1158.55,388,False,2.24
+1560,Persistent secondary adapter,14,97,12252.93,40,True,2.5
+1561,Quality-focused mission-critical knowledgebase,10,26,7668.36,104,True,1.95
+1562,Inverse value-added paradigm,20,57,36988.86,168,True,2.27
+1563,Configurable empowering architecture,2,67,39609.81,212,True,2.15
+1564,Up-sized optimizing superstructure,1,30,42362.05,169,True,1.82
+1565,Multi-layered object-oriented array,2,86,49419.98,410,True,3.88
+1566,Face-to-face optimizing middleware,20,49,26121.45,93,True,1.02
+1567,Managed 5thgeneration projection,16,9,47687.69,26,True,1.57
+1568,Re-engineered explicit methodology,7,17,4678.79,303,True,4.18
+1569,Progressive static migration,7,31,25420.48,218,True,2.25
+1570,Compatible composite solution,7,32,21258.44,310,True,2.14
+1571,Compatible well-modulated array,15,82,10149.91,441,True,1.32
+1572,Innovative systematic extranet,12,51,18948.1,241,True,3.02
+1573,Future-proofed bandwidth-monitored superstructure,14,98,7878.34,488,True,1.08
+1574,Cross-group national system engine,13,55,42716.71,388,False,2.2
+1575,Balanced zero-defect instruction set,18,20,27687.32,89,True,2.85
+1576,Grass-roots dedicated attitude,15,37,18819.83,310,True,2.33
+1577,Object-based dynamic knowledge user,16,26,7820.75,97,True,4.45
+1578,Optimized tangible capability,12,63,20287.31,212,False,4.88
+1579,Devolved impactful neural-net,12,50,24528.6,328,False,1.28
+1580,Ergonomic clear-thinking interface,2,16,19302.82,289,True,4.05
+1581,Customer-focused demand-driven Graphical User Interface,9,99,45662.99,369,True,3.84
+1582,Proactive object-oriented challenge,12,90,2979.46,197,False,3.94
+1583,Programmable actuating software,8,62,1821.93,416,True,3.83
+1584,Assimilated next generation toolset,1,90,33317.21,75,True,2.82
+1585,Enhanced asynchronous extranet,5,33,12446.0,296,False,4.37
+1586,Integrated impactful emulation,1,15,38571.51,329,True,2.54
+1587,Reactive user-facing Local Area Network,19,11,25975.0,96,False,1.66
+1588,Expanded zero-defect open system,14,33,34622.66,256,False,3.63
+1589,Operative grid-enabled flexibility,13,76,15468.15,210,True,4.7
+1590,Self-enabling discrete emulation,3,14,31845.39,397,True,4.26
+1591,Profound reciprocal architecture,9,96,10555.33,383,True,2.23
+1592,Diverse explicit parallelism,6,63,178.77,35,True,2.67
+1593,Pre-emptive radical capacity,14,84,14488.18,220,True,2.5
+1594,Automated next generation pricing structure,5,26,24374.92,257,False,2.8
+1595,Multi-lateral system-worthy help-desk,7,24,10126.95,383,True,4.04
+1596,Optional dedicated pricing structure,9,53,22092.45,467,True,4.47
+1597,Automated radical algorithm,6,11,14726.97,193,True,1.26
+1598,Synergized bi-directional pricing structure,1,75,11815.53,248,True,1.4
+1599,Pre-emptive optimizing standardization,2,35,37614.75,3,True,4.16
+1600,Phased didactic knowledgebase,2,13,10632.31,405,True,3.41
+1601,Polarized methodical Local Area Network,9,63,23714.27,172,True,2.35
+1602,Digitized coherent installation,11,41,40860.67,481,True,2.59
+1603,Business-focused scalable open architecture,20,8,48767.72,447,True,1.4
+1604,Progressive mission-critical contingency,15,90,20150.24,427,False,1.56
+1605,Stand-alone secondary time-frame,20,16,43463.36,143,False,4.01
+1606,Public-key even-keeled methodology,8,48,22650.71,351,True,2.9
+1607,Innovative executive hardware,14,85,9477.95,326,False,4.25
+1608,Centralized maximized secured line,1,82,18074.26,23,False,3.94
+1609,Intuitive static Graphical User Interface,15,30,30377.47,204,True,4.18
+1610,Self-enabling disintermediate support,12,55,46960.33,482,False,4.95
+1611,Quality-focused uniform contingency,4,94,19304.44,310,True,1.57
+1612,Self-enabling clear-thinking concept,17,74,39264.61,366,True,1.51
+1613,Digitized leadingedge matrices,3,39,41634.47,280,False,2.87
+1614,Secured tangible superstructure,15,15,24160.21,276,True,1.85
+1615,Distributed 6thgeneration productivity,3,14,21801.18,366,True,4.72
+1616,Adaptive incremental initiative,11,50,38338.81,112,True,3.66
+1617,Exclusive zero tolerance definition,4,86,6874.25,273,True,2.97
+1618,Enhanced object-oriented hierarchy,11,29,46595.82,392,False,1.26
+1619,Triple-buffered regional knowledgebase,11,49,45517.34,380,True,2.53
+1620,Decentralized logistical time-frame,18,56,40441.53,114,True,2.16
+1621,Right-sized transitional adapter,4,12,17077.87,303,False,3.98
+1622,Triple-buffered zero administration projection,4,74,18450.08,436,True,2.52
+1623,Multi-lateral incremental function,1,40,3188.06,274,True,2.55
+1624,Implemented responsive neural-net,14,41,38586.92,408,True,4.19
+1625,Balanced homogeneous capacity,17,85,30120.72,113,True,1.04
+1626,Visionary zero-defect moderator,15,41,7320.57,482,True,1.88
+1627,Re-contextualized methodical analyzer,15,19,30113.12,74,True,4.4
+1628,Versatile static workforce,2,77,16074.95,257,False,1.49
+1629,Multi-lateral client-driven matrices,19,62,31590.75,110,True,3.82
+1630,Up-sized bi-directional parallelism,13,8,49059.03,170,True,3.87
+1631,Cross-group regional synergy,8,90,36812.71,472,False,1.72
+1632,Monitored leadingedge service-desk,16,94,19651.21,417,True,4.39
+1633,Organic explicit monitoring,1,71,19675.05,216,True,4.96
+1634,Configurable asymmetric challenge,13,51,3683.98,372,True,3.79
+1635,Team-oriented 6thgeneration open architecture,7,90,42826.99,201,True,2.29
+1636,Intuitive logistical firmware,19,7,42505.51,363,True,3.62
+1637,Progressive even-keeled moratorium,19,18,22150.0,247,True,1.58
+1638,Multi-layered executive ability,7,96,9863.19,333,True,3.9
+1639,Business-focused scalable frame,19,14,33948.06,439,True,4.8
+1640,Up-sized needs-based utilization,14,87,42098.84,474,True,2.42
+1641,Synchronized dynamic orchestration,16,23,47258.65,60,False,3.6
+1642,Enhanced non-volatile leverage,19,56,48489.38,321,True,1.98
+1643,Synergized executive attitude,4,31,19892.58,154,True,4.82
+1644,Intuitive national architecture,13,100,34620.56,407,True,1.36
+1645,Seamless analyzing website,15,84,19166.84,323,True,2.47
+1646,Monitored 3rdgeneration support,4,15,4223.59,250,True,4.63
+1647,Devolved tangible emulation,8,3,29383.84,293,True,3.77
+1648,Devolved systemic algorithm,4,76,9136.72,247,False,3.81
+1649,Secured global migration,10,74,6349.3,166,True,4.64
+1650,Centralized systematic help-desk,18,24,20325.99,358,True,3.22
+1651,Multi-tiered transitional matrices,18,68,24479.31,265,False,3.16
+1652,Cloned analyzing task-force,4,97,37674.11,494,True,1.47
+1653,Triple-buffered incremental methodology,20,89,9078.88,284,True,2.26
+1654,Vision-oriented static approach,2,17,28796.54,334,True,3.25
+1655,Operative secondary interface,2,11,48998.43,259,True,4.87
+1656,Enterprise-wide next generation adapter,6,55,48857.44,336,True,2.2
+1657,Down-sized context-sensitive ability,17,38,32991.96,227,True,2.96
+1658,Seamless needs-based adapter,11,67,45548.08,180,True,3.04
+1659,Cloned composite application,4,85,41006.19,121,True,1.57
+1660,Pre-emptive interactive support,7,18,30147.0,110,True,2.11
+1661,Switchable fault-tolerant parallelism,20,55,3810.55,130,True,3.6
+1662,Persevering local forecast,6,52,22857.78,483,True,2.7
+1663,Reduced foreground collaboration,5,69,10267.77,322,True,4.98
+1664,Expanded logistical portal,7,92,18669.9,336,True,3.05
+1665,Exclusive 3rdgeneration matrix,6,54,41096.23,161,False,2.73
+1666,Upgradable content-based Graphical User Interface,1,78,12450.13,138,True,1.44
+1667,Profound full-range info-mediaries,18,53,3391.37,327,True,4.64
+1668,Managed needs-based firmware,9,19,43455.88,115,True,1.39
+1669,Polarized multimedia open system,8,49,47593.96,400,False,1.7
+1670,Fully-configurable high-level definition,10,76,41085.03,250,True,2.4
+1671,Progressive tangible extranet,19,37,27621.96,311,True,1.19
+1672,Grass-roots multi-state customer loyalty,11,97,19539.21,176,False,3.71
+1673,Ergonomic real-time capability,18,71,29771.39,435,True,3.37
+1674,Innovative neutral interface,9,2,34364.25,365,True,1.51
+1675,Synergized system-worthy frame,13,73,36797.58,27,False,3.56
+1676,Distributed tangible framework,12,91,38898.66,347,True,3.83
+1677,Multi-channeled coherent parallelism,6,57,49313.69,408,True,2.15
+1678,Profound encompassing website,14,67,47089.68,451,False,1.92
+1679,Upgradable 24hour budgetary management,3,40,20385.09,160,False,3.54
+1680,Sharable modular success,3,94,12077.83,47,True,1.23
+1681,Public-key user-facing initiative,10,71,46486.49,413,False,4.85
+1682,Multi-layered executive challenge,14,87,25483.25,374,True,2.99
+1683,Integrated responsive data-warehouse,18,90,6322.11,7,True,4.64
+1684,Optional multi-tasking access,1,92,21306.45,273,True,1.98
+1685,Future-proofed tangible solution,17,88,30498.76,310,True,1.67
+1686,Realigned uniform benchmark,17,29,8823.23,187,False,3.05
+1687,Organized asynchronous projection,2,55,24825.84,87,True,1.45
+1688,Front-line directional methodology,8,70,42553.77,439,True,2.2
+1689,Versatile asymmetric task-force,10,34,10731.99,377,True,2.57
+1690,Persistent clear-thinking array,10,83,25824.9,457,True,2.85
+1691,Future-proofed stable artificial intelligence,20,63,2969.09,3,True,2.31
+1692,Extended tertiary access,12,14,357.21,455,True,2.61
+1693,Ameliorated empowering encoding,1,13,21597.11,101,True,3.06
+1694,User-centric encompassing process improvement,5,53,6279.75,249,True,4.08
+1695,Compatible radical protocol,9,29,23587.86,191,True,2.71
+1696,Adaptive disintermediate definition,6,69,40596.04,55,False,3.63
+1697,Mandatory fault-tolerant open system,15,21,7079.73,382,True,2.44
+1698,Sharable 5thgeneration info-mediaries,7,15,9559.4,20,True,2.68
+1699,Visionary hybrid circuit,11,5,8099.59,101,False,4.84
+1700,Virtual non-volatile info-mediaries,9,16,21112.66,281,True,3.73
+1701,Fully-configurable 24hour middleware,5,42,37579.39,399,False,3.01
+1702,Reverse-engineered transitional ability,13,17,5575.67,55,True,1.5
+1703,Re-contextualized tertiary framework,12,65,781.08,350,True,3.71
+1704,Cross-group 6thgeneration productivity,11,55,48824.28,377,True,2.92
+1705,Front-line explicit access,10,63,4222.48,219,True,1.61
+1706,Quality-focused client-driven task-force,17,24,12548.39,392,True,2.05
+1707,Open-architected eco-centric secured line,8,86,41048.41,101,True,4.13
+1708,Implemented global utilization,4,90,36549.79,312,True,4.97
+1709,Object-based reciprocal flexibility,19,81,31760.41,117,True,2.61
+1710,Function-based content-based archive,9,25,46462.01,218,True,1.8
+1711,Devolved 4thgeneration encoding,2,49,20424.13,156,True,4.92
+1712,Focused intermediate software,8,44,21361.19,31,True,3.58
+1713,Networked regional strategy,10,15,13535.38,143,False,3.85
+1714,Fully-configurable bandwidth-monitored installation,8,41,44765.8,93,True,1.21
+1715,Down-sized non-volatile database,11,28,14337.32,143,False,1.4
+1716,Reverse-engineered uniform pricing structure,6,33,47421.58,186,True,1.45
+1717,Re-contextualized clear-thinking attitude,1,88,27633.23,441,True,2.44
+1718,Multi-lateral multi-tasking hierarchy,12,96,38962.53,270,True,1.95
+1719,Optimized exuding implementation,9,27,29257.93,44,False,1.52
+1720,Triple-buffered value-added alliance,20,16,2147.84,495,False,3.62
+1721,User-friendly dedicated standardization,7,25,35262.54,473,True,4.77
+1722,Intuitive attitude-oriented process improvement,20,44,15143.67,242,False,1.81
+1723,Customer-focused optimizing flexibility,5,6,6478.81,214,True,2.01
+1724,Optimized local data-warehouse,18,45,44756.16,229,True,1.47
+1725,Networked interactive process improvement,14,9,24192.75,268,False,3.02
+1726,Face-to-face upward-trending superstructure,1,22,29997.77,356,False,2.16
+1727,Business-focused multimedia hierarchy,19,8,39740.08,355,True,4.26
+1728,Ameliorated clear-thinking application,16,88,26670.25,262,False,1.66
+1729,Synchronized intangible help-desk,17,50,28168.68,199,True,2.09
+1730,Sharable systematic definition,6,1,8084.15,111,True,1.04
+1731,Self-enabling logistical time-frame,17,59,25240.51,368,True,2.21
+1732,Streamlined stable framework,8,38,35441.91,282,True,1.9
+1733,Visionary client-server analyzer,18,31,14662.98,327,True,4.53
+1734,Programmable disintermediate neural-net,5,35,43681.8,26,True,2.0
+1735,Balanced real-time orchestration,7,69,5897.62,332,True,3.42
+1736,Networked multi-tasking Internet solution,12,42,4253.98,361,False,2.06
+1737,Right-sized actuating workforce,5,53,44926.95,150,True,1.23
+1738,Assimilated real-time hardware,1,46,11042.05,494,True,2.02
+1739,User-centric national data-warehouse,1,69,32900.15,444,True,4.12
+1740,Reduced needs-based approach,4,93,37313.91,195,False,2.03
+1741,Persevering background Internet solution,20,71,10387.33,226,True,2.08
+1742,Switchable context-sensitive alliance,19,81,40405.87,385,True,2.78
+1743,Assimilated full-range definition,14,48,7501.88,245,True,1.73
+1744,Reverse-engineered motivating success,6,23,9524.11,251,False,1.72
+1745,Exclusive multi-tasking attitude,10,3,15577.0,453,True,2.58
+1746,Synergistic contextually-based product,20,25,3565.76,36,True,2.82
+1747,Phased mobile middleware,13,13,36242.92,70,True,4.23
+1748,Optimized attitude-oriented adapter,20,13,18955.97,10,True,1.05
+1749,Synergized didactic instruction set,2,17,12492.31,42,True,4.75
+1750,Cross-group exuding moratorium,20,2,39640.78,4,False,1.43
+1751,Configurable dedicated initiative,11,91,4339.76,71,True,3.25
+1752,Implemented exuding matrix,15,21,15438.51,245,True,1.22
+1753,Focused reciprocal middleware,9,81,27226.28,10,False,1.41
+1754,Devolved homogeneous analyzer,10,14,25625.97,428,True,1.0
+1755,Devolved attitude-oriented system engine,8,4,11411.09,197,True,3.62
+1756,Devolved actuating definition,8,88,19298.72,452,True,4.61
+1757,Compatible analyzing system engine,16,22,49539.33,114,True,4.82
+1758,Quality-focused zero administration utilization,12,10,30823.27,60,True,4.7
+1759,Future-proofed holistic open system,3,6,30264.87,91,True,2.34
+1760,Decentralized motivating solution,6,87,21319.7,457,True,2.21
+1761,Reduced bandwidth-monitored access,10,45,43782.57,138,False,3.65
+1762,Centralized uniform framework,9,92,39954.31,403,True,4.73
+1763,Optional 24hour frame,5,100,32827.12,163,True,2.79
+1764,User-centric fault-tolerant secured line,16,9,5746.89,218,False,2.11
+1765,User-friendly bandwidth-monitored paradigm,3,42,49739.11,93,True,2.41
+1766,Polarized bifurcated system engine,16,55,24116.3,498,True,4.17
+1767,User-centric methodical array,11,18,40126.83,334,False,2.53
+1768,Customer-focused transitional parallelism,18,64,26983.49,252,True,4.29
+1769,Digitized content-based open system,13,11,29090.1,215,True,4.11
+1770,Integrated intangible budgetary management,8,90,4453.79,185,True,4.98
+1771,Fundamental user-facing interface,1,47,27962.89,490,True,1.44
+1772,Synchronized holistic interface,12,47,42452.7,443,True,1.56
+1773,Persistent foreground adapter,15,19,41779.09,282,False,4.65
+1774,Cloned modular moderator,8,27,41408.31,28,True,1.47
+1775,Fundamental multimedia instruction set,5,49,36680.77,356,False,2.49
+1776,Compatible clear-thinking system engine,4,85,29122.19,244,False,4.48
+1777,Face-to-face heuristic forecast,1,19,18325.69,40,True,1.05
+1778,User-friendly maximized definition,14,20,38294.34,240,True,3.99
+1779,Virtual uniform process improvement,10,61,20634.97,172,True,3.58
+1780,Front-line local archive,1,37,5652.21,30,False,1.13
+1781,User-friendly reciprocal encryption,6,65,8101.4,202,False,3.72
+1782,Re-contextualized context-sensitive core,15,71,35599.2,132,False,3.01
+1783,Optimized transitional groupware,8,55,46579.37,139,False,3.09
+1784,Adaptive web-enabled instruction set,5,96,10672.03,316,True,2.57
+1785,Synergized systematic neural-net,18,78,42101.48,418,True,2.91
+1786,Implemented real-time function,13,49,8324.74,411,True,2.7
+1787,Multi-lateral stable matrix,9,14,5309.56,185,True,4.39
+1788,Secured discrete encryption,1,31,14182.13,277,True,1.85
+1789,Fundamental neutral protocol,1,97,45493.38,96,True,3.55
+1790,Streamlined next generation functionalities,2,31,13531.48,500,True,1.18
+1791,Self-enabling static Graphic Interface,16,6,2497.64,47,False,1.03
+1792,Diverse actuating standardization,12,97,14191.87,203,True,2.26
+1793,Seamless static groupware,13,93,17856.28,66,True,1.39
+1794,Stand-alone maximized utilization,14,95,25228.56,257,False,1.6
+1795,Ergonomic clear-thinking leverage,19,49,23899.96,444,False,2.16
+1796,Devolved transitional website,5,88,23209.0,453,True,4.81
+1797,Optional leadingedge conglomeration,8,28,40393.05,334,True,3.87
+1798,Monitored attitude-oriented initiative,17,67,49614.72,311,True,4.72
+1799,Enterprise-wide solution-oriented firmware,11,58,39289.06,173,True,3.49
+1800,Seamless 4thgeneration archive,14,6,44544.93,396,True,1.96
+1801,Versatile human-resource framework,20,78,3842.41,78,True,4.98
+1802,Automated 4thgeneration analyzer,4,2,7216.86,445,True,4.47
+1803,Future-proofed global emulation,3,64,4796.29,160,True,2.18
+1804,Inverse 5thgeneration superstructure,3,36,28867.93,180,True,1.72
+1805,Seamless impactful process improvement,15,34,49308.55,500,True,4.51
+1806,Fundamental 24/7 frame,5,16,48586.86,249,True,4.44
+1807,Right-sized cohesive leverage,13,53,42864.35,469,True,2.76
+1808,Grass-roots 4thgeneration neural-net,17,80,47607.04,191,True,2.65
+1809,Reactive didactic hardware,15,34,43882.69,349,True,4.91
+1810,Organic bottom-line system engine,2,95,39550.47,358,False,1.03
+1811,Right-sized methodical adapter,4,38,18853.5,291,True,1.29
+1812,Digitized bottom-line time-frame,13,60,33490.61,178,True,3.57
+1813,Operative coherent functionalities,15,14,4382.55,374,True,4.84
+1814,Open-source interactive hierarchy,13,99,21712.41,205,True,2.27
+1815,Exclusive content-based complexity,20,63,10710.5,379,True,2.11
+1816,Ameliorated bandwidth-monitored complexity,2,70,7871.48,240,True,1.85
+1817,Total bi-directional solution,19,5,49391.76,396,True,4.75
+1818,Diverse didactic access,12,56,48930.19,109,True,4.47
+1819,Digitized impactful contingency,14,35,12678.36,90,True,1.28
+1820,Vision-oriented foreground architecture,13,11,14987.01,364,True,2.68
+1821,Business-focused clear-thinking product,7,86,44664.36,94,False,1.37
+1822,Proactive zero administration support,14,44,48171.95,152,True,2.4
+1823,De-engineered asynchronous matrix,14,62,23827.42,352,True,4.86
+1824,Profound eco-centric customer loyalty,14,46,45638.63,292,True,1.04
+1825,Open-source tertiary interface,20,26,3982.65,341,True,1.58
+1826,Horizontal mission-critical moderator,11,2,7610.26,234,False,3.0
+1827,Business-focused multi-tasking hardware,11,15,39621.64,345,True,3.08
+1828,Progressive logistical flexibility,1,58,47171.85,438,True,2.8
+1829,Monitored coherent application,19,13,1920.65,381,False,2.68
+1830,Visionary holistic policy,18,100,8388.44,193,True,1.84
+1831,Upgradable empowering firmware,7,87,28884.14,7,True,2.46
+1832,Fully-configurable contextually-based framework,10,40,25154.05,444,True,3.0
+1833,Synchronized explicit customer loyalty,15,53,20578.3,180,False,2.7
+1834,Public-key reciprocal model,11,15,46324.81,234,True,1.71
+1835,Upgradable global complexity,20,21,27183.87,195,True,3.64
+1836,Streamlined foreground interface,14,82,14234.09,317,False,4.62
+1837,Self-enabling discrete website,4,12,40316.39,53,True,1.07
+1838,Reverse-engineered intangible algorithm,14,14,24870.61,384,True,3.18
+1839,Synergistic user-facing functionalities,15,65,29103.56,16,True,4.41
+1840,Function-based encompassing software,7,29,38866.32,282,True,1.78
+1841,Future-proofed grid-enabled secured line,16,16,17595.62,406,False,2.65
+1842,Programmable heuristic project,13,1,46986.88,400,True,2.13
+1843,Diverse client-server function,9,40,41940.36,407,False,3.69
+1844,Fully-configurable incremental archive,1,54,1730.46,13,True,2.5
+1845,Face-to-face heuristic monitoring,17,95,30037.29,171,True,3.29
+1846,Re-contextualized regional analyzer,14,31,27831.41,200,True,3.58
+1847,Streamlined web-enabled function,2,74,21512.21,480,True,4.91
+1848,Function-based secondary methodology,6,52,45218.15,264,True,1.92
+1849,Synergized 5thgeneration protocol,5,65,6006.8,295,True,4.37
+1850,Profit-focused exuding collaboration,9,71,8036.75,165,True,1.37
+1851,Optional tertiary concept,14,2,31481.82,303,True,3.47
+1852,Upgradable grid-enabled database,18,11,28632.51,12,True,1.52
+1853,Multi-layered bifurcated projection,15,82,31611.94,183,True,3.61
+1854,Cloned context-sensitive approach,8,39,9772.06,430,True,4.12
+1855,Virtual grid-enabled help-desk,13,99,13097.94,26,True,4.74
+1856,Multi-layered optimizing hardware,1,82,49241.41,443,True,2.84
+1857,Quality-focused tangible website,20,16,5443.13,144,True,1.72
+1858,Reduced responsive analyzer,3,64,42246.72,467,False,2.56
+1859,Centralized systemic policy,16,3,20745.88,249,False,1.31
+1860,Quality-focused regional neural-net,14,49,44496.7,324,False,4.23
+1861,Multi-tiered dedicated projection,6,39,606.0,91,True,3.52
+1862,Reduced high-level interface,2,16,48798.2,177,True,3.46
+1863,Reactive explicit matrices,18,1,8003.57,379,True,1.49
+1864,Adaptive clear-thinking Graphic Interface,20,4,26844.11,265,True,1.61
+1865,Cloned web-enabled software,12,15,44938.76,15,True,1.88
+1866,Face-to-face demand-driven matrices,5,35,13755.96,102,False,2.39
+1867,Cloned upward-trending parallelism,18,84,14786.61,381,False,2.74
+1868,Cross-platform eco-centric interface,13,25,12579.65,101,True,4.55
+1869,Profound tangible capacity,9,51,5234.44,406,True,2.25
+1870,Managed intermediate flexibility,7,93,24442.81,452,True,3.39
+1871,Multi-tiered content-based matrices,9,41,31183.26,310,True,1.8
+1872,Business-focused 3rdgeneration encryption,12,48,44904.94,419,True,1.67
+1873,Reactive responsive encryption,2,66,12727.88,209,True,4.31
+1874,Customizable cohesive capacity,17,46,19975.5,58,True,2.29
+1875,Realigned actuating pricing structure,6,46,12341.38,110,True,2.49
+1876,Polarized homogeneous monitoring,11,16,580.69,352,True,2.32
+1877,Re-contextualized tangible utilization,15,73,39782.45,460,True,1.26
+1878,Reduced intangible time-frame,10,78,10687.54,111,True,2.11
+1879,Secured actuating algorithm,20,86,3833.73,457,True,3.73
+1880,Optional intermediate emulation,14,41,40688.38,101,True,4.21
+1881,Fully-configurable 4thgeneration open system,16,6,49513.96,215,True,2.81
+1882,Cloned logistical pricing structure,20,42,29599.44,121,True,2.14
+1883,Pre-emptive regional alliance,19,1,45590.99,145,True,4.87
+1884,Synchronized zero administration synergy,2,69,45909.92,20,True,1.07
+1885,Compatible attitude-oriented capacity,16,13,41509.53,212,True,2.1
+1886,Right-sized empowering throughput,12,52,4080.38,396,True,3.45
+1887,Customer-focused bottom-line adapter,13,39,34853.2,232,True,3.56
+1888,Switchable incremental database,4,48,46891.42,52,True,1.19
+1889,Robust mobile product,1,18,5346.27,165,False,3.9
+1890,Optimized 6thgeneration support,8,22,4492.03,370,False,2.48
+1891,Profound user-facing moratorium,18,1,46712.11,444,True,4.53
+1892,Grass-roots upward-trending ability,2,15,2495.37,155,True,2.32
+1893,Multi-tiered zero-defect methodology,20,49,13568.61,87,False,3.33
+1894,Self-enabling even-keeled superstructure,4,17,16034.7,75,True,4.55
+1895,Monitored client-server utilization,14,82,22394.31,62,True,1.96
+1896,Fundamental multimedia data-warehouse,16,85,24556.18,143,True,3.92
+1897,Inverse secondary pricing structure,8,12,13264.22,151,True,2.41
+1898,Expanded neutral application,8,85,32392.0,438,True,1.31
+1899,Fundamental global secured line,16,8,10702.53,343,True,4.27
+1900,Profound logistical adapter,7,63,5316.28,106,False,4.05
+1901,Proactive regional service-desk,17,41,38048.35,159,True,3.62
+1902,Managed exuding moratorium,17,14,45714.85,112,False,2.54
+1903,Cross-group tertiary portal,15,80,25721.86,399,True,1.27
+1904,Optional next generation implementation,14,22,34344.67,487,False,3.59
+1905,Exclusive homogeneous website,5,60,43822.19,381,True,1.07
+1906,Business-focused directional hierarchy,15,24,13411.16,243,True,2.81
+1907,Seamless zero tolerance emulation,9,16,46353.69,43,True,1.85
+1908,Balanced bi-directional analyzer,13,65,21599.34,170,True,2.09
+1909,Team-oriented grid-enabled parallelism,4,7,32466.23,374,False,1.78
+1910,Open-architected content-based software,7,52,8914.59,141,True,2.97
+1911,Up-sized hybrid info-mediaries,14,14,34089.91,330,True,1.44
+1912,Optimized fresh-thinking emulation,4,7,44763.42,294,True,1.26
+1913,Synergized 6thgeneration time-frame,4,36,11400.6,317,True,2.62
+1914,Team-oriented actuating adapter,13,13,11072.43,421,False,2.07
+1915,Self-enabling 6thgeneration focus group,7,22,39307.81,177,True,3.82
+1916,Switchable disintermediate matrices,10,94,255.03,94,True,3.8
+1917,Upgradable actuating focus group,16,95,15335.68,464,True,1.68
+1918,Proactive national hierarchy,3,22,9448.49,460,True,4.85
+1919,Balanced user-facing pricing structure,16,55,16769.3,90,False,4.53
+1920,Innovative multi-state open system,6,87,38037.01,4,True,4.88
+1921,Profit-focused impactful orchestration,19,1,24466.54,126,True,1.18
+1922,Synchronized incremental Internet solution,1,73,34034.31,148,False,3.1
+1923,Seamless value-added circuit,6,97,7414.49,48,True,4.22
+1924,Quality-focused 3rdgeneration throughput,11,58,24584.03,179,False,2.03
+1925,Virtual mobile frame,16,33,18278.04,6,False,2.2
+1926,Digitized content-based portal,11,67,38748.86,438,False,4.37
+1927,Organized systemic algorithm,16,15,13569.88,265,True,1.08
+1928,Fully-configurable demand-driven Graphical User Interface,14,29,33002.41,72,True,1.12
+1929,Synchronized zero tolerance software,19,95,34820.72,220,True,3.98
+1930,Future-proofed contextually-based task-force,7,49,31972.81,494,True,3.51
+1931,Horizontal regional time-frame,18,58,49367.85,448,True,2.06
+1932,User-centric clear-thinking website,12,43,19612.21,213,False,2.1
+1933,Function-based value-added time-frame,7,6,29017.89,359,True,3.45
+1934,Diverse well-modulated capability,14,59,28376.46,405,True,2.15
+1935,Cross-platform next generation leverage,1,64,46368.93,75,True,1.6
+1936,Compatible 4thgeneration database,10,80,27951.23,83,True,2.15
+1937,Configurable upward-trending time-frame,10,2,22747.52,111,True,3.37
+1938,Reduced zero-defect functionalities,2,63,15360.49,220,True,4.34
+1939,Inverse leadingedge emulation,2,33,6972.17,449,True,4.44
+1940,Organized transitional process improvement,18,20,47688.89,365,True,4.98
+1941,Versatile transitional algorithm,7,56,29302.72,41,True,1.13
+1942,Integrated leadingedge pricing structure,12,32,40604.28,326,True,2.6
+1943,Devolved multi-tasking functionalities,4,34,46017.69,305,True,3.26
+1944,Sharable even-keeled open system,11,75,7044.9,393,True,1.54
+1945,Devolved background info-mediaries,18,26,15123.01,43,True,4.71
+1946,Innovative optimal conglomeration,15,70,9250.27,400,False,2.75
+1947,Team-oriented dynamic budgetary management,5,68,22150.88,160,True,3.74
+1948,Versatile well-modulated approach,12,60,17774.27,238,True,2.64
+1949,Devolved empowering interface,1,72,1418.46,392,True,4.02
+1950,Optimized local hardware,20,39,39352.94,297,True,1.51
+1951,Persistent context-sensitive time-frame,18,73,43902.48,27,True,2.57
+1952,User-centric 4thgeneration software,13,86,397.05,413,True,3.07
+1953,Devolved optimizing toolset,2,11,2829.17,424,False,1.43
+1954,Ameliorated upward-trending secured line,20,13,41114.81,289,True,2.33
+1955,Automated full-range superstructure,2,16,37049.6,345,True,3.87
+1956,Open-architected intangible alliance,7,67,7293.18,379,False,1.55
+1957,Re-engineered context-sensitive website,5,39,31449.15,368,False,1.03
+1958,Object-based multi-state algorithm,16,80,34419.96,58,True,1.61
+1959,Self-enabling exuding analyzer,4,67,4933.5,104,True,1.1
+1960,Fundamental clear-thinking middleware,17,57,19596.62,474,True,2.62
+1961,Integrated upward-trending frame,6,31,42101.87,279,True,3.45
+1962,Cross-platform discrete knowledgebase,15,85,30896.21,221,True,1.09
+1963,Implemented object-oriented concept,5,96,32907.52,87,True,3.8
+1964,Enhanced 6thgeneration initiative,7,61,24075.28,148,True,4.84
+1965,Monitored asymmetric portal,16,48,33418.21,200,True,4.2
+1966,Expanded cohesive firmware,15,54,40693.33,75,True,2.83
+1967,Function-based leadingedge benchmark,19,50,649.88,155,True,3.6
+1968,Reduced hybrid help-desk,20,57,2227.33,464,True,1.56
+1969,Distributed disintermediate success,15,36,555.09,81,True,4.42
+1970,Ameliorated reciprocal intranet,17,27,17506.82,361,True,3.05
+1971,Public-key logistical core,6,84,7655.0,335,True,2.36
+1972,Re-engineered fault-tolerant capacity,5,36,39269.55,337,True,2.58
+1973,Expanded next generation instruction set,16,49,48131.49,310,True,3.3
+1974,Organic 24/7 utilization,17,100,32979.36,132,True,2.3
+1975,Fundamental optimizing circuit,19,45,29266.21,424,True,1.18
+1976,Down-sized user-facing model,6,30,4917.37,54,True,3.72
+1977,User-centric transitional conglomeration,11,98,11653.58,395,False,3.93
+1978,Stand-alone bandwidth-monitored complexity,8,14,44999.74,89,True,2.54
+1979,Business-focused static superstructure,14,9,3190.14,128,True,4.39
+1980,Operative maximized alliance,3,57,38191.26,310,True,1.12
+1981,Phased high-level archive,6,42,5472.28,230,True,4.96
+1982,Networked logistical migration,19,72,10066.75,129,True,3.72
+1983,Customizable motivating benchmark,8,26,37133.48,222,False,4.23
+1984,Fully-configurable bandwidth-monitored archive,7,12,29147.19,322,False,1.38
+1985,Advanced holistic intranet,2,18,44675.22,184,True,3.27
+1986,Distributed object-oriented superstructure,3,44,9346.69,373,False,3.91
+1987,Cross-platform cohesive process improvement,17,64,9587.83,106,True,2.89
+1988,Programmable systematic policy,12,46,30962.1,286,False,4.21
+1989,Streamlined actuating benchmark,15,55,31310.99,447,True,1.31
+1990,Sharable client-driven hierarchy,17,39,5135.56,255,True,3.41
+1991,Right-sized attitude-oriented application,11,3,11278.66,481,True,4.31
+1992,Pre-emptive uniform access,13,91,17959.47,446,False,4.87
+1993,Adaptive multi-tasking matrix,3,69,28810.26,436,True,3.44
+1994,Ergonomic foreground attitude,10,52,30970.38,279,True,1.44
+1995,Vision-oriented eco-centric throughput,16,34,32696.28,16,True,2.04
+1996,Self-enabling directional orchestration,11,98,3063.66,104,True,3.94
+1997,Front-line zero-defect product,2,31,24728.4,412,False,4.62
+1998,Synergized 5thgeneration array,2,45,49054.7,486,True,3.96
+1999,Assimilated didactic interface,3,71,23990.7,66,True,1.17
+2000,Robust hybrid instruction set,2,64,25429.45,332,True,2.91
