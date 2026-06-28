@@ -129,23 +129,23 @@ The `queries.sql` file contains 50+ queries answering critical business question
 Using Python (`pandas`, `seaborn`, `matplotlib`), the raw data was transformed into compelling visual stories.
 
 ### 1. Monthly Revenue Trend
-*(Image: `Images/monthly_revenue_trend.png`)*
+![Monthly Revenue Trend](Images/monthly_revenue_trend.png)
 - **Insight**: Tracks the overall growth trajectory of the platform, highlighting seasonal spikes (e.g., Diwali or Big Billion Days sales).
 
 ### 2. Top 10 Categories by Sales
-*(Image: `Images/top_categories_sales.png`)*
+![Top 10 Categories by Sales](Images/top_categories_sales.png)
 - **Insight**: Electronics and Clothing consistently drive the highest GMV (Gross Merchandise Value), indicating where marketing spend should be focused.
 
 ### 3. Payment Mode Preferences
-*(Image: `Images/payment_mode_preferences.png`)*
+![Payment Mode Preferences](Images/payment_mode_preferences.png)
 - **Insight**: UPI is the dominant payment method, reflecting the reality of the Indian digital payments ecosystem, followed closely by Credit Cards and COD.
 
 ### 4. Order Status Distribution
-*(Image: `Images/order_status_distribution.png`)*
+![Order Status Distribution](Images/order_status_distribution.png)
 - **Insight**: A healthy delivery rate of >70% with a small percentage of returns and cancellations, highlighting logistical efficiency.
 
 ### 5. Top 10 States by Revenue
-*(Image: `Images/top_states_revenue.png`)*
+![Top 10 States by Revenue](Images/top_states_revenue.png)
 - **Insight**: Tier-1 states like Maharashtra, Karnataka, and Delhi contribute the most to the revenue pool.
 
 ---
